@@ -1,0 +1,4 @@
+module_id,clip_id,clip_title,audio_url,order
+upfront-contracts,clip-01,What is an Up-Front Contract?,https://example.com/audio/upfront-1.mp3,1
+upfront-contracts,clip-02,When to Set It,https://example.com/audio/upfront-2.mp3,2
+upfront-contracts,clip-03,Elements of a Strong Contract,https://example.com/audio/upfront-3.mp3,3
