@@ -1,0 +1,81 @@
+module_id,clip_id,question_order,question_text,Answer
+why-have-a-system,clip-01,1, Why are open-ended questions alone not sufficient?,"CA: Because prospects quickly learned how to close those questions themselves, meaning that just asking questions does not give the salesperson control over the sales process.
+IA: Because open-ended questions make prospects too talkative and derail the presentation.
+IA: Because open-ended questions are only useful after showing the product demo.
+IA: Because prospects now prefer being asked only yes/no questions to save time."
+why-have-a-system,clip-01,2,Main reason for problems with prospects,"CA: Prospects have become familiar with conventional selling techniques and have learned to control the sales process, making them less responsive to traditional methods.
+IA: Prospects are overwhelmed by too many product choices and have stopped evaluating solutions.
+IA: Prospects today generally lack interest in any form of structured sales conversation.
+IA: Prospects mainly resist salespeople because they expect large discounts upfront."
+why-have-a-system,clip-02,3,Why did the lieutenant ask about the T-38 ejection seat?,"CA: Because he was surprised by the emergency procedure that involved ejecting and wanted to know how reliable the ejection seat was.
+IA: Because he wanted to compare the T-38’s performance with other aircraft.
+IA: Because he was curious about the engineering behind jet propulsion systems.
+IA: Because he wanted to challenge the training officer on flight safety rules."
+why-have-a-system,clip-02,4,What did the sergeant say about the T-38 ejection seat’s record?,"CA: He said that 117 pilots ejected and all 117 survived, but 23 people had been killed flying the airplane because they didn’t eject.
+IA: He said only a handful of pilots survived ejections due to mechanical issues.
+IA: He said the ejection system was unreliable and rarely used in emergencies.
+IA: He said most pilots preferred landing without ejecting because the system was outdated."
+why-have-a-system,clip-03,5,Most obvious reason for using a selling system,"CA: It is a process designed to lead you through the sales call, keeping you on track and focused by knowing where you are and where you’re going next.
+IA: It guarantees the prospect will say yes as long as the system is followed.
+IA: It allows the salesperson to avoid asking tough questions during the call.
+IA: It replaces the need for discovery by focusing on scripted presentations."
+why-have-a-system,clip-03,6,How a selling system helps deal with problems,"CA: It allows you to recognize potential problems earlier so you can make timely changes, and it provides guidelines for dealing with problems prospects throw your way.
+IA: It helps you avoid difficult prospects so you can focus only on easy buyers.
+IA: It ensures objections never happen during the sales call.
+IA: It allows you to skip qualification entirely and move straight to presenting."
+why-have-a-system,clip-04,7,Two systems at work in buyer-seller interaction,"CA: The prospect system and the salesperson system.
+IA: The marketing system and the product system.
+IA: The pricing system and the referral system.
+IA: The negotiation system and the customer-service system."
+why-have-a-system,clip-04,8,Why salespeople fail (per Sandler),"CA: Because they have little control over what takes place during sales calls and are often unaware of the manipulative measures prospects use.
+IA: Because they spend too much time qualifying prospects before presenting.
+IA: Because they rely too heavily on asking for referrals.
+IA: Because they focus too heavily on rapport and not enough on closing."
+why-have-a-system,clip-05,9,What is the first step in the Sandler process regarding how prospects handle information?,"CA: Prospects keep their cards close and avoid revealing details quickly as self-protection.
+ IA: Prospects immediately share full details.
+ IA: Prospects focus first on choosing vendors before needs.
+ IA: Prospects always reveal budget early."
+why-have-a-system,clip-05,10,Why is the presentation and proposal stage often a trap?,"CA: Prospects may use proposals to shop around or gain leverage without commitment.
+ IA: Prospects always decide immediately after proposals.
+ IA: Presentations eliminate objections entirely.
+ IA: Prospects prefer long presentations to build trust."
+why-have-a-system,clip-06,11,What inspired David Sandler to use the submarine metaphor?,"CA: Old John Wayne submarine movies with separate compartments.
+ IA: A training film about aircraft carriers.
+ IA: A documentary on deep-sea exploration.
+ IA: A modern naval engineering video."
+why-have-a-system,clip-06,12,How does the submarine metaphor relate to the sales call?,"CA: You move prospects compartment-by-compartment and close off the previous stage.
+ IA: You dive deep into product features before qualification.
+ IA: You explore multiple sales paths at once.
+ IA: You let prospects revisit earlier stages."
+why-have-a-system,clip-07,13,What is the 'caveman approach' to selling?,"CA: The old method of high-energy presentations, repeated closes, and heavy objection handling.
+ IA: A modern digital-only selling method.
+ IA: A data analytics persuasion technique.
+ IA: A passive selling approach led by the prospect."
+why-have-a-system,clip-07,14,Why does Sandler emphasise finding the prospect’s pain?,"CA: Because people buy to feel good or relieve pain, and it’s easier to sell to someone in pain.
+ IA: Because pain allows skipping the budget step.
+ IA: Because prospects seldom buy unless pressured.
+ IA: Because pain replaces the need to define decision criteria."
+why-have-a-system,clip-08,15,Why is it important for salespeople to have a selling process?,"CA: Without one, salespeople default to the prospect’s buying system and lose advantage.
+ IA: Because a process guarantees 90% close rates.
+ IA: Because a process removes the need for discovery.
+ IA: Because it replaces qualification with demos."
+why-have-a-system,clip-08,16,What does the budget step involve?,"CA: Discussing all money issues and ensuring willingness and ability to spend to fix pain.
+ IA: Establishing maximum discount levels.
+ IA: Presenting pricing before understanding pain.
+ IA: Focusing on competitor pricing to justify cost."
+why-have-a-system,clip-09,17,What is 'Wimp Junction'?,"CA: A moment where the salesperson chooses their system or the prospect’s—losing control if wrong.
+ IA: A stage where incentives are offered.
+ IA: A phase for collecting objections.
+ IA: A point where price is intentionally delayed."
+why-have-a-system,clip-09,18,How can a salesperson avoid ending up at Wimp Junction?,"CA: By following their own system and maintaining control.
+ IA: By letting the prospect structure the call.
+ IA: By offering early discounts.
+ IA: By skipping qualification to move faster."
+why-have-a-system,clip-10,19,What should you not be afraid to do when using a selling system?,"CA: Don’t be afraid to abort.
+ IA: Don’t be afraid to close too early.
+ IA: Don’t be afraid to offer discounts.
+ IA: Don’t be afraid to skip qualification."
+why-have-a-system,clip-10,20,What should you stop selling according to the Sandler rules?,"CA: Stop selling features and benefits.
+ IA: Stop selling pain and impact.
+ IA: Stop selling budget and decision criteria.
+ IA: Stop selling timelines and implementation plans."
