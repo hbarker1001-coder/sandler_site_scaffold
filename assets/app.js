@@ -1,33 +1,59 @@
 // Query helpers
-const Q = new URLSearchParams(location.search);
+const Q  = new URLSearchParams(location.search);
 const by = sel => document.querySelector(sel);
 const $$ = sel => Array.from(document.querySelectorAll(sel));
 
 // User name storage
 const USER_KEY = 'sandler:user';
 
-function getUser(){
-  try { return JSON.parse(localStorage.getItem(USER_KEY)) || {}; }
-  catch { return {}; }
+function userIdFromName(name){
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9\-]/g, '') || 'anon';
 }
+
+function getUser(){
+  try {
+    const u = JSON.parse(localStorage.getItem(USER_KEY)) || {};
+    if(u.name && !u.id){
+      u.id = userIdFromName(u.name);
+      setUser(u);
+    }
+    return u;
+  } catch {
+    return {};
+  }
+}
+
 function setUser(u){
   localStorage.setItem(USER_KEY, JSON.stringify(u || {}));
 }
 
-// Module state storage
-function lsKey(module_id){ return `sandler:module:${module_id}`; }
-function getState(module_id){
-  try { return JSON.parse(localStorage.getItem(lsKey(module_id))) || {}; }
-  catch { return {}; }
+// Per user, per module state
+function lsKey(module_id){
+  const user = getUser();
+  const uid = (user && user.id) || 'anon';
+  return `sandler:${uid}:module:${module_id}`;
 }
+
+function getState(module_id){
+  try {
+    return JSON.parse(localStorage.getItem(lsKey(module_id))) || {};
+  } catch {
+    return {};
+  }
+}
+
 function setState(module_id, obj){
   localStorage.setItem(lsKey(module_id), JSON.stringify(obj || {}));
 }
 
-// CSV loader (csv.js must be included)
+// CSV loader (csv.js must define parseCSV)
 async function loadCSV(path){
   const res = await fetch(path, { cache:'no-cache' });
-  if(!res.ok) throw new Error('Failed to load '+path);
+  if(!res.ok) throw new Error('Failed to load ' + path);
   const text = await res.text();
   return parseCSV(text);
 }
@@ -48,9 +74,9 @@ function flash(msg){
 
 function shuffle(arr){
   const a = [...arr];
-  for(let i=a.length-1;i>0;i--){
-    const j = Math.floor(Math.random()*(i+1));
-    [a[i],a[j]] = [a[j],a[i]];
+  for(let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 }
@@ -66,7 +92,7 @@ function initNameBar(){
   if(user.name){
     nameInput.value = user.name;
     if(nameLabel) nameLabel.textContent = `Participant: ${user.name}`;
-  }else if(nameLabel){
+  } else if(nameLabel){
     nameLabel.textContent = 'Participant: (enter your name)';
   }
 
@@ -74,6 +100,7 @@ function initNameBar(){
     const v = nameInput.value.trim();
     const u = getUser();
     u.name = v;
+    u.id   = userIdFromName(v);
     setUser(u);
     if(nameLabel) nameLabel.textContent = v ? `Participant: ${v}` : 'Participant: (enter your name)';
     flash('Name saved');
@@ -84,6 +111,7 @@ function initNameBar(){
 function moduleClipUrl(module_id, clip_id){
   return `clip.html?module_id=${encodeURIComponent(module_id)}&clip_id=${encodeURIComponent(clip_id)}`;
 }
+
 function moduleQuizUrl(module_id){
   return `quiz.html?module_id=${encodeURIComponent(module_id)}`;
 }
@@ -92,8 +120,9 @@ function moduleQuizUrl(module_id){
 
 async function renderIndex(){
   initNameBar();
+
   const modules = (await loadCSV('data/Modules.csv'))
-    .sort((a,b) => Number(a.order||999) - Number(b.order||999));
+    .sort((a,b) => Number(a.order || 999) - Number(b.order || 999));
 
   const clips = await loadCSV('data/Clips.csv');
   const wrap = by('#modules');
@@ -102,7 +131,7 @@ async function renderIndex(){
   modules.forEach(m => {
     const moduleClips = clips
       .filter(c => c.module_id === m.module_id)
-      .sort((a,b) => Number(a.order||999) - Number(b.order||999));
+      .sort((a,b) => Number(a.order || 999) - Number(b.order || 999));
 
     const total = moduleClips.length;
     const st = getState(m.module_id);
@@ -118,7 +147,7 @@ async function renderIndex(){
     card.innerHTML = `
       <h3>${m.module_title || m.module_id} ${completed ? '✅' : ''}</h3>
       <p class="muted">${m.module_description || ''}</p>
-      <p><strong>${total}</strong> audio clips • Pass mark: ${m.pass_mark_percent || 80}%</p>
+      <p><strong>${total}</strong> audio clips · Pass mark: ${m.pass_mark_percent || 80}%</p>
       <div class="grid" style="grid-template-columns:auto auto;gap:8px;margin-top:6px">
         <a class="btn btn-primary" href="${moduleClipUrl(m.module_id, lastClipId || 'first')}">${primaryLabel}</a>
         <a class="btn btn-ghost" href="${moduleQuizUrl(m.module_id)}">Go to quiz</a>
@@ -128,7 +157,7 @@ async function renderIndex(){
   });
 }
 
-/* ============ CLIP PAGE – MCQ clip questions ============ */
+/* ============ CLIP PAGE - MCQ per clip ============ */
 
 async function renderClip(){
   initNameBar();
@@ -145,7 +174,7 @@ async function renderClip(){
 
   const clips = (await loadCSV('data/Clips.csv'))
     .filter(c => c.module_id === module_id)
-    .sort((a,b) => Number(a.order||999) - Number(b.order||999));
+    .sort((a,b) => Number(a.order || 999) - Number(b.order || 999));
 
   if(!clips.length){
     by('#content').innerHTML = '<div class="notice">No clips configured for this module yet.</div>';
@@ -197,7 +226,7 @@ async function renderClip(){
     audio.onerror = () => {
       if(audioNotice){
         audioNotice.style.display = 'block';
-        audioNotice.textContent = 'Could not load audio. Is this a direct, publicly accessible audio file? ' + clip.audio_url;
+        audioNotice.textContent = 'Could not load audio. Is this a public audio file? ' + clip.audio_url;
       }
       console.error('Audio failed to load for clip', clip.clip_id, 'URL:', clip.audio_url);
     };
@@ -218,7 +247,7 @@ async function renderClip(){
   // CLIP QUESTIONS AS MCQ (Clip_Questions.csv with Answer = CA/IA lines)
   const qs = (await loadCSV('data/Clip_Questions.csv'))
     .filter(q => q.module_id === module_id && q.clip_id === clip.clip_id)
-    .sort((a,b) => Number(a.question_order||999) - Number(b.question_order||999));
+    .sort((a,b) => Number(a.question_order || 999) - Number(b.question_order || 999));
 
   const form = by('#reflectForm');
   form.innerHTML = '';
@@ -233,7 +262,6 @@ async function renderClip(){
     const wrapper = document.createElement('div');
     wrapper.className = 'mcq';
 
-    // Parse Answer column for CA/IA
     const raw = (q.Answer || q.answers || q.Answers || '').split(/\r?\n/);
     const choices = [];
     let correctText = '';
@@ -259,7 +287,7 @@ async function renderClip(){
     const finalChoices = shuffle(choices);
 
     wrapper.innerHTML = `
-      <h3>${i+1}. ${q.question_text}</h3>
+      <h3>${i + 1}. ${q.question_text}</h3>
       <div class="choices">
         ${finalChoices.map(c => `
           <label class="choice">
@@ -310,12 +338,12 @@ async function renderClip(){
         correct: isCorrect
       };
 
-      const expEl = by('#exp_'+key);
+      const expEl = by('#exp_' + key);
       if(expEl){
         expEl.style.display = 'block';
         const expl = explanation || (
           isCorrect
-            ? 'Correct – this matches the key learning from this clip.'
+            ? 'Correct - this matches the key learning from this clip.'
             : 'Review the audio again and pay attention to how Sandler handles this point.'
         );
         expEl.innerHTML = isCorrect
@@ -351,7 +379,7 @@ async function renderClip(){
   };
 }
 
-/* ============ QUIZ PAGE – Module_Quiz.csv MCQs ============ */
+/* ============ QUIZ PAGE - Module MCQs ============ */
 
 async function renderQuiz(){
   initNameBar();
@@ -368,7 +396,7 @@ async function renderQuiz(){
 
   const qrows = (await loadCSV('data/Module_Quiz.csv'))
     .filter(q => q.module_id === module_id)
-    .sort((a,b) => Number(a.question_order||999) - Number(b.question_order||999));
+    .sort((a,b) => Number(a.question_order || 999) - Number(b.question_order || 999));
 
   const wrap = by('#quizWrap');
   wrap.innerHTML = '';
@@ -405,7 +433,7 @@ async function renderQuiz(){
     const finalChoices = shuffle(choices);
 
     box.innerHTML = `
-      <h3>${idx+1}. ${item.question_text}</h3>
+      <h3>${idx + 1}. ${item.question_text}</h3>
       <div class="choices">
         ${finalChoices.map(c => `
           <label class="choice">
@@ -445,13 +473,13 @@ async function renderQuiz(){
       const isCorrect = (userVal || '').trim() === (item._correctText || '').trim();
       if(isCorrect) correct++;
 
-      const expEl = by('#exp_'+item.question_id);
+      const expEl = by('#exp_' + item.question_id);
       if(!expEl) return;
       expEl.style.display = 'block';
 
       const expl = item.explanation || (
         isCorrect
-          ? 'Correct – this aligns with the Sandler method in this module.'
+          ? 'Correct - this aligns with the Sandler method in this module.'
           : 'Review the module content and pay attention to how Sandler handles this situation.'
       );
 
@@ -460,10 +488,10 @@ async function renderQuiz(){
         : `<span class="chip fail">Incorrect</span> ${expl}`;
     });
 
-    const percent = Math.round((correct / Math.max(1,total)) * 100);
+    const percent = Math.round((correct / Math.max(1, total)) * 100);
     const pass = percent >= passMark;
 
-    st.result = { correct, total, percent, pass, when:new Date().toISOString() };
+    st.result = { correct, total, percent, pass, when: new Date().toISOString() };
     if(pass) st.completed = true;
     setState(module_id, st);
 
@@ -489,7 +517,7 @@ async function renderQuiz(){
         flash('Please enter your name at the top of the page first.');
         return;
       }
-      const c = by('#certCanvas');
+      const c   = by('#certCanvas');
       const ctx = c.getContext('2d');
       const name = user.name.trim();
 
@@ -527,7 +555,7 @@ async function renderQuiz(){
 
       ctx.fillStyle = accent;
       ctx.beginPath();
-      ctx.arc(1100, 750, 110, 0, Math.PI*2);
+      ctx.arc(1100, 750, 110, 0, Math.PI * 2);
       ctx.fill();
 
       ctx.fillStyle = '#ffffff';
