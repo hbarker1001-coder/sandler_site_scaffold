@@ -1,5 +1,5 @@
 module_id,module_title,order,pass_mark_percent,module_description
-why-have-a-system,Why Have a System,1,80,
+why-have-a-system,Why Have a System,1,80,Discover The Sandler Sales Training System 
 bonding-rapport,Bonding & Rapport,2,80,Building trust early and aligning tone and pace
 up-front-contracts,Making Up-Front Contracts,3,80,"Setting clear agendas, time, roles, and next steps"
 questioning-1,Questioning Strategies 1,4,80,
@@ -16,4 +16,5 @@ setting-goals-1,Setting Goals 1,14,80,
 setting-goals-2,Setting Goals 2,15,80,
 your-formula-for-success,Developing Your Formula For Success,16,80,
 reverse-selling,Negative Reverse Selling,17,80,
+
 guts,David Sandler on Guts,18,80,
