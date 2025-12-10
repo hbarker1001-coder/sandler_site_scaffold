@@ -145,13 +145,39 @@ IA: Because telling prospects nothing builds curiosity and urgency.
 IA: Because upfront explanations weaken your authority.
 IA: Because prospects prefer to guess the process rather than be told."
 
-questioning-1,q1,32,Why might salespeople struggle with not sharing their knowledge early?,"CA: Salespeople struggle because they want to share their expertise and it’s hard to hold back after investing time learning it. IA: Salespeople struggle because prospects always want full technical explanations. IA: Salespeople struggle because sharing everything early guarantees faster closes. IA: Salespeople struggle because prospects prefer salespeople who talk nonstop."
-questioning-1,q2,33,What is the dummy curve in sales according to David Sandler?,"CA: The dummy curve prevents early information dumping by moving through dummy amateur and professional phases. IA: The dummy curve is designed only for overcoming price objections. IA: The dummy curve is mainly for delivering complex technical explanations. IA: The dummy curve replaces discovery and rapport building."
-questioning-1,q3,34,What is the significance of the statement 'Selling is a Broadway play performed by a psychiatrist'?,"CA: Selling involves acting and psychological skills to understand and influence the prospect effectively. IA: Selling works best when you show your true personality without structure. IA: Selling requires no psychology — only product knowledge. IA: Selling is purely about price negotiation."
-questioning-1,q4,35,What does it mean that the salesperson is 'staying out of the box' and 'in the professional phase of the dummy curve'?,"CA: It means the salesperson is using the dummy curve professionally adapting the conversation to stay in control. IA: It means the salesperson is avoiding asking any questions. IA: It means the salesperson should lead with features immediately. IA: It means the salesperson is hiding their intentions from the prospect."
-questioning-1,q5,36,What does the speaker imply about being yourself during a sales call?,"CA: Being yourself won’t work because prospects won’t buy if you simply act like yourself. IA: Being yourself is always the most effective sales strategy. IA: Being yourself guarantees faster rapport. IA: Being yourself eliminates the need for technique or preparation."
-questioning-1,q6,37,What is the rule David Sandler gives about selling and educating?,"CA: The rule is sell today and educate tomorrow — let the prospect get their picture first. IA: The rule is educate fully before selling anything. IA: The rule is bombard prospects with features as early as possible. IA: The rule is always provide detailed technical explanations upfront."
-questioning-1,q7,38,What is the main challenge when making changes to a prospect's mental picture during a sales interview?,"CA: Changing a prospect’s mental picture may make them uncomfortable so it must be handled carefully. IA: Prospects always welcome additional details and changes to their picture. IA: The salesperson should control the picture entirely without input. IA: Prospects rarely form mental pictures so this is not a concern."
-questioning-1,q8,39,What is the difference between a professional salesperson and a dummy as per David Sandler's explanation?,"CA: A professional repeats what he did as a dummy but now does it deliberately and on purpose. IA: A professional avoids dummy-curve behaviors entirely. IA: A professional focuses mainly on presenting features. IA: A professional no longer asks questions and leads with solutions."
-questioning-1,q9,40,What does 'What you know can hurt you so dummy up' mean?,"CA: It means sharing too much knowledge can be harmful; sometimes it’s better to hold back and listen. IA: It means you should always answer every question immediately. IA: It means the more you talk the more control you gain. IA: It means prospects prefer long technical explanations early in the process."
-
+questioning-1,q1,32,Why might salespeople struggle with not sharing their knowledge early?,"CA: Salespeople struggle because they want to share their expertise and it’s hard to hold back after investing time learning it.
+IA: Salespeople struggle because prospects always want full technical explanations.
+IA: Salespeople struggle because sharing everything early guarantees faster closes.
+IA: Salespeople struggle because prospects prefer salespeople who talk nonstop."
+questioning-2,q2,33,What is the dummy curve in sales according to David Sandler?,"CA: The dummy curve prevents early information dumping by moving through dummy amateur and professional phases.
+IA: The dummy curve is designed only for overcoming price objections.
+IA: The dummy curve is mainly for delivering complex technical explanations.
+IA: The dummy curve replaces discovery and rapport building."
+questioning-3,q3,34,What is the significance of the statement 'Selling is a Broadway play performed by a psychiatrist'?,"CA: Selling involves acting and psychological skills to understand and influence the prospect effectively.
+IA: Selling works best when you show your true personality without structure.
+IA: Selling requires no psychology — only product knowledge.
+IA: Selling is purely about price negotiation."
+questioning-4,q4,35,What does it mean that the salesperson is 'staying out of the box' and 'in the professional phase of the dummy curve'?,"CA: It means the salesperson is using the dummy curve professionally adapting the conversation to stay in control.
+IA: It means the salesperson is avoiding asking any questions.
+IA: It means the salesperson should lead with features immediately.
+IA: It means the salesperson is hiding their intentions from the prospect."
+questioning-5,q5,36,What does the speaker imply about being yourself during a sales call?,"CA: Being yourself won’t work because prospects won’t buy if you simply act like yourself.
+IA: Being yourself is always the most effective sales strategy.
+IA: Being yourself guarantees faster rapport.
+IA: Being yourself eliminates the need for technique or preparation."
+questioning-6,q6,37,What is the rule David Sandler gives about selling and educating?,"CA: The rule is sell today and educate tomorrow — let the prospect get their picture first.
+IA: The rule is educate fully before selling anything.
+IA: The rule is bombard prospects with features as early as possible.
+IA: The rule is always provide detailed technical explanations upfront."
+questioning-7,q7,38,What is the main challenge when making changes to a prospect's mental picture during a sales interview?,"CA: Changing a prospect’s mental picture may make them uncomfortable so it must be handled carefully.
+IA: Prospects always welcome additional details and changes to their picture.
+IA: The salesperson should control the picture entirely without input.
+IA: Prospects rarely form mental pictures so this is not a concern."
+questioning-8,q8,39,What is the difference between a professional salesperson and a dummy as per David Sandler's explanation?,"CA: A professional repeats what he did as a dummy but now does it deliberately and on purpose.
+IA: A professional avoids dummy-curve behaviors entirely.
+IA: A professional focuses mainly on presenting features.
+IA: A professional no longer asks questions and leads with solutions."
+questioning-9,q9,40,What does 'What you know can hurt you so dummy up' mean?,"CA: It means sharing too much knowledge can be harmful; sometimes it’s better to hold back and listen.
+IA: It means you should always answer every question immediately.
+IA: It means the more you talk the more control you gain.
+IA: It means prospects prefer long technical explanations early in the process."
