@@ -1,5 +1,5 @@
 module_id,clip_id,question_order,question_text,Answer
-why-have-a-system,clip-01,1, Why are open-ended questions alone not sufficient?,"CA: Because prospects quickly learned how to close those questions themselves, meaning that just asking questions does not give the salesperson control over the sales process.
+why-have-a-system,clip-01,1,Why are open-ended questions alone not sufficient?,"CA: Because prospects quickly learned how to close those questions themselves, meaning that just asking questions does not give the salesperson control over the sales process.
 IA: Because open-ended questions make prospects too talkative and derail the presentation.
 IA: Because open-ended questions are only useful after showing the product demo.
 IA: Because prospects now prefer being asked only yes/no questions to save time."
@@ -27,269 +27,226 @@ why-have-a-system,clip-04,7,Two systems at work in buyer-seller interaction,"CA:
 IA: The marketing system and the product system.
 IA: The pricing system and the referral system.
 IA: The negotiation system and the customer-service system."
-why-have-a-system,clip-04,8,Why salespeople fail (per Sandler),"CA: Because they have little control over what takes place during sales calls and are often unaware of the manipulative measures prospects use.
+why-have-a-system,clip-04,8,Why salespeople fail (per Sandler), "CA: Because they have little control over what takes place during sales calls and are often unaware of the manipulative measures prospects use.
 IA: Because they spend too much time qualifying prospects before presenting.
 IA: Because they rely too heavily on asking for referrals.
 IA: Because they focus too heavily on rapport and not enough on closing."
 why-have-a-system,clip-05,9,What is the first step in the Sandler process regarding how prospects handle information?,"CA: Prospects keep their cards close and avoid revealing details quickly as self-protection.
- IA: Prospects immediately share full details.
- IA: Prospects focus first on choosing vendors before needs.
- IA: Prospects always reveal budget early."
+IA: Prospects immediately share full details.
+IA: Prospects focus first on choosing vendors before needs.
+IA: Prospects always reveal budget early."
 why-have-a-system,clip-05,10,Why is the presentation and proposal stage often a trap?,"CA: Prospects may use proposals to shop around or gain leverage without commitment.
- IA: Prospects always decide immediately after proposals.
- IA: Presentations eliminate objections entirely.
- IA: Prospects prefer long presentations to build trust."
+IA: Prospects always decide immediately after proposals.
+IA: Presentations eliminate objections entirely.
+IA: Prospects prefer long presentations to build trust."
 why-have-a-system,clip-06,11,What inspired David Sandler to use the submarine metaphor?,"CA: Old John Wayne submarine movies with separate compartments.
- IA: A training film about aircraft carriers.
- IA: A documentary on deep-sea exploration.
- IA: A modern naval engineering video."
+IA: A training film about aircraft carriers.
+IA: A documentary on deep-sea exploration.
+IA: A modern naval engineering video."
 why-have-a-system,clip-06,12,How does the submarine metaphor relate to the sales call?,"CA: You move prospects compartment-by-compartment and close off the previous stage.
- IA: You dive deep into product features before qualification.
- IA: You explore multiple sales paths at once.
- IA: You let prospects revisit earlier stages."
+IA: You dive deep into product features before qualification.
+IA: You explore multiple sales paths at once.
+IA: You let prospects revisit earlier stages."
 why-have-a-system,clip-07,13,What is the 'caveman approach' to selling?,"CA: The old method of high-energy presentations (repeated closes) and heavy objection handling.
- IA: A modern digital-only selling method.
- IA: A data analytics persuasion technique.
- IA: A passive selling approach led by the prospect."
+IA: A modern digital-only selling method.
+IA: A data analytics persuasion technique.
+IA: A passive selling approach led by the prospect."
 why-have-a-system,clip-07,14,Why does Sandler emphasise finding the prospect’s pain?,"CA: Because people buy to feel good or relieve pain and it’s easier to sell to someone in pain.
- IA: Because pain allows skipping the budget step.
- IA: Because prospects seldom buy unless pressured.
- IA: Because pain replaces the need to define decision criteria."
+IA: Because pain allows skipping the budget step.
+IA: Because prospects seldom buy unless pressured.
+IA: Because pain replaces the need to define decision criteria."
 why-have-a-system,clip-08,15,Why is it important for salespeople to have a selling process?,"CA: Without one salespeople default to the prospect’s buying system and lose advantage.
- IA: Because a process guarantees 90% close rates.
- IA: Because a process removes the need for discovery.
- IA: Because it replaces qualification with demos."
+IA: Because a process guarantees 90% close rates.
+IA: Because a process removes the need for discovery.
+IA: Because it replaces qualification with demos."
 why-have-a-system,clip-08,16,What does the budget step involve?,"CA: Discussing all money issues and ensuring willingness and ability to spend to fix pain.
- IA: Establishing maximum discount levels.
- IA: Presenting pricing before understanding pain.
- IA: Focusing on competitor pricing to justify cost."
-why-have-a-system,clip-09,17,What is 'Wimp Junction'?,"CA: A moment where the salesperson chooses their system or the prospect’s—losing control if wrong.
- IA: A stage where incentives are offered.
- IA: A phase for collecting objections.
- IA: A point where price is intentionally delayed."
+IA: Establishing maximum discount levels.
+IA: Presenting pricing before understanding pain.
+IA: Focusing on competitor pricing to justify cost."
+why-have-a-system,clip-09,17,What is 'Wimp Junction'?,"CA: A moment where the salesperson chooses their system or the prospect’s, losing control if wrong.
+IA: A stage where incentives are offered.
+IA: A phase for collecting objections.
+IA: A point where price is intentionally delayed."
 why-have-a-system,clip-09,18,How can a salesperson avoid ending up at Wimp Junction?,"CA: By following their own system and maintaining control.
- IA: By letting the prospect structure the call.
- IA: By offering early discounts.
- IA: By skipping qualification to move faster."
+IA: By letting the prospect structure the call.
+IA: By offering early discounts.
+IA: By skipping qualification to move faster."
 why-have-a-system,clip-10,19,What should you not be afraid to do when using a selling system?,"CA: Don’t be afraid to abort.
- IA: Don’t be afraid to close too early.
- IA: Don’t be afraid to offer discounts.
- IA: Don’t be afraid to skip qualification."
-
+IA: Don’t be afraid to close too early.
+IA: Don’t be afraid to offer discounts.
+IA: Don’t be afraid to skip qualification."
 why-have-a-system,clip-10,20,What should you stop selling according to the Sandler rules?,"CA: Stop selling features and benefits.
- IA: Stop selling pain and impact.
- IA: Stop selling budget and decision criteria.
- IA: Stop selling timelines and implementation plans."
+IA: Stop selling pain and impact.
+IA: Stop selling budget and decision criteria.
+IA: Stop selling timelines and implementation plans."
 bonding-rapport,clip-11,21,What should you stop selling according to the Sandler rules?,"CA: Stop selling features and benefits.
 IA: Stop selling pain and impact.
 IA: Stop selling budget and decision criteria.
 IA: Stop selling timelines and implementation plans."
-
 bonding-rapport,clip-11,22,What does the concept of bonding in sales mean?,"CA: Bonding means connecting with prospects and making them feel understood.
 IA: Bonding means presenting your solution enthusiastically.
 IA: Bonding means mirroring buying habits.
 IA: Bonding means building goodwill through discounts."
-
 bonding-rapport,clip-12,23,What advice is given about learning to understand people for better sales?,"CA: Spend time studying psychology and self-help materials.
 IA: Learn as many closing techniques as possible.
 IA: Memorise standard sales scripts.
 IA: Study product brochures thoroughly."
-
 bonding-rapport,clip-12,24,Why is establishing rapport important for a sales professional?,"CA: It makes the prospect comfortable and builds trust and influence.
 IA: It shortens the sales cycle by helping you pitch faster.
 IA: It prevents prospects from asking difficult questions.
 IA: It helps you switch the prospect to another product more easily."
-
 bonding-rapport,clip-13,25,What is one way suggested by a Sandler trainer to build rapport with a prospect?,"CA: Find something you have in common.
 IA: Start with a scripted compliment.
 IA: Tell a story about another client.
 IA: Begin with a joke to break the ice."
-
 bonding-rapport,clip-13,26,What are the three components of active participation?,"CA: Elements of communication active listening and primary sensory dominance.
 IA: Taking notes nodding and smiling.
 IA: Repeating back every word they say.
 IA: Using hand gestures to show engagement."
-
 bonding-rapport,clip-14,27,What role does tonality play in communication?,"CA: Tonality accounts for 38% of communication and carries more meaning than words.
 IA: Tonality mainly helps you sound enthusiastic.
 IA: Tonality is only important during the close.
 IA: Tonality matters mostly when reading scripts."
-
 bonding-rapport,clip-14,28,What are the three primary sensory modes described?,"CA: Visual auditory and kinesthetic.
 IA: Logical emotional and behavioural.
 IA: Introverted extroverted and analytical.
 IA: Direct indirect and neutral."
-
 bonding-rapport,clip-15,29,How can you identify an auditory person’s communication style?,"CA: They speak slower choose words carefully and use sound-related phrases.
 IA: They prefer written information instead of speaking.
 IA: They avoid dialogue and rely on body language.
 IA: They rush through explanations without detail."
-
 bonding-rapport,clip-15,30,Can you name some common words or phrases that visuals use to convey their experience?,"CA: Words like appears, focus, look, vision.
 IA: Words like “I feel” or “it feels like”.
 IA: Logic-based words like “I think therefore”.
 IA: Sound-based metaphors like “rings a bell”."
-
 bonding-rapport,clip-16,31,What example illustrates how a bad visual impression can distract a prospect?,"CA: Tom’s uncomfortable appearance distracts the prospect from the message.
 IA: A salesperson using too many statistics confuses the prospect.
 IA: A salesperson sitting too far back loses attention.
 IA: A salesperson telling long stories bores the prospect."
-
 bonding-rapport,clip-16,32,How do auditories typically communicate and process information?,"CA: They respond aloud and have an internal dialogue while talking.
 IA: They process information best through visuals.
 IA: They avoid speaking and rely on email.
 IA: They prefer to make decisions silently."
-
 bonding-rapport,clip-17,33,How do auditories signal that they are ready to be sold to?,"CA: They go quiet and ask to be sold.
 IA: They fidget and look away.
 IA: They ask to end the meeting early.
 IA: They start talking over the salesperson."
-
 bonding-rapport,clip-17,34,What are some communication traits of kinesthetics?,"CA: They speak slowly need eye contact and observe surroundings.
 IA: They dislike eye contact and physical interaction.
 IA: They prefer fast data-heavy conversations.
 IA: They rely mainly on written summaries."
-
 bonding-rapport,clip-18,35,What is important when communicating with kinesthetic prospects in sales?,"CA: Show belief in your product and let them physically interact with it.
 IA: Focus mostly on technical data.
 IA: Keep communication brief and emotion-free.
 IA: Push for quick decisions to avoid overthinking."
-
 bonding-rapport,clip-18,36,How does the story about watching Tarzan as a child relate to the concept of feeling okay or not okay?,"CA: People feel okay by finding someone more not-okay than they are.
 IA: It shows people enjoy action scenes.
 IA: It shows confidence comes from praise.
 IA: It demonstrates how stories build rapport."
-
 bonding-rapport,clip-19,37,How can using industry buzzwords negatively affect a sales interaction?,"CA: They make prospects feel not-okay or inferior.
 IA: They help prospects feel like experts.
 IA: They make you sound more impressive.
 IA: They accelerate trust."
-
 bonding-rapport,clip-19,38,What is a stroke in the context of sales according to David Sandler?,"CA: A stroke is a form of recognition that makes prospects feel comfortable.
 IA: A stroke is a scripted compliment used to close.
 IA: A stroke is a technique to distract the prospect.
 IA: A stroke is a tool to persuade someone quickly."
-
 bonding-rapport,clip-20,39,Why should a salesperson avoid overusing strokes?,"CA: Overusing strokes seems insincere.
 IA: It accelerates buying pressure.
 IA: It reduces your authority.
 IA: It slows down the presentation."
-
 bonding-rapport,clip-20,40,What is recommended regarding the prospect and the product?,"CA: Let your prospect touch your product.
 IA: Keep the product away until the end.
 IA: Only describe the product verbally.
 IA: Use slides instead of physical interaction."
-
 upfront-contracts,clip-21,41,Why is it important to discuss the rules of the sales interview with your prospect?,"CA: Because without rules you lose control of the sales process and create confusion.
 IA: Because rules allow you to present more product features.
 IA: Because prospects expect long presentations without structure.
 IA: Because rules ensure the salesperson talks most of the time."
-
 upfront-contracts,clip-21,42,When should you use the strategy of upfront contracting in sales?,"CA: An upfront contract creates a mutual agreement on expectations and reduces stress.
 IA: An upfront contract is a script for closing techniques.
 IA: An upfront contract is a way to pressure prospects into faster decisions.
 IA: An upfront contract is simply confirming the meeting time."
-
 upfront-contracts,clip-22,43,Why is it important not to get defensive during a sales appointment?,"CA: Because defensiveness harms the relationship, and proper upfront contracts prevent that.
 IA: Because defensiveness helps the salesperson identify weak prospects.
 IA: Because pressure is required to get faster closes.
 IA: Because the prospect must feel challenged to respect the salesperson."
-
 upfront-contracts,clip-22,44,What does it indicate if a prospect asks you to 'send some literature' during a call?,"CA: It often indicates the prospect isn’t interested and wants to end the call politely.
 IA: It means the prospect wants more product details.
 IA: It suggests the prospect is ready for the close.
 IA: It means the prospect wants the salesperson to talk more."
-
 upfront-contracts,clip-23,45,What elements should a strong upfront contract include?,"CA: A strong upfront contract includes objectives agendas time and a decision.
 IA: It should focus mainly on product benefits and objections.
 IA: It should only outline the salesperson’s agenda.
 IA: It should delay decision-making to a future meeting."
-
 upfront-contracts,clip-23,46,How can a salesperson assert their rights without being aggressive during a meeting?,"CA: Control is maintained using assertive but non-threatening language.
 IA: Control comes from speaking louder than the prospect.
 IA: Control requires dominating the conversation.
 IA: Control comes from refusing to acknowledge objections."
-
 upfront-contracts,clip-24,47,What is the purpose of using the ANOT acronym during sales calls?,"CA: ANOT helps ensure all elements of the upfront contract are included.
 IA: ANOT is a tool for tracking competitor pricing.
 IA: ANOT is a closing script for end-of-call objections.
 IA: ANOT is a method for memorizing product features."
-
 upfront-contracts,clip-24,48,What are the key elements included in an upfront contract as demonstrated in the ANOT example?,"CA: Key elements are time objective roles and decision.
 IA: Key elements are pricing discounts urgency and closing steps.
 IA: Key elements are scripts objections negotiation and product demos.
 IA: Key elements are rapport chit-chat and small talk."
-
 upfront-contracts,clip-25,49,What are the four major requirements of a formal legal contract mentioned in the text?,"CA: The requirements are mutual agreement consideration competency and lawful object.
 IA: The requirements are enthusiasm product knowledge rapport and persistence.
 IA: The requirements are objection handling negotiating discounting and presenting.
-IA: The requirements are motivation confidence charisma mand authority."
-
+IA: The requirements are motivation confidence charisma and authority."
 upfront-contracts,clip-25,50,How do upfront contracts help salespeople according to the text?,"CA: Upfront contracts give salespeople courage to do what they must so both parties win.
 IA: Upfront contracts guarantee the sale every time.
 IA: Upfront contracts eliminate the need for questioning.
 IA: Upfront contracts replace the need for rapport."
-
 upfront-contracts,clip-26,51,According to David Sandler what should a salesperson do when facing a negative behavior pattern?,"CA: They should identify the negative pattern and openly communicate it.
 IA: They should ignore the pattern and hope it goes away.
 IA: They should confront the prospect aggressively.
 IA: They should avoid mentioning any uncomfortable behavior."
-
 upfront-contracts,clip-26,52,What is the benefit of openly admitting to a problem like difficulty asking for the sale?,"CA: It invites the prospect to help overcome the problem creating collaboration.
 IA: It shifts responsibility entirely to the prospect.
 IA: It allows the salesperson to avoid addressing issues.
 IA: It increases pressure on the prospect to make a quick decision."
-
 upfront-contracts,clip-27,53,What is a common issue salespeople face with prospects during the sales process?,"CA: Salespeople often encounter stalls objections perceptions and misconceptions.
 IA: Salespeople primarily encounter pricing complaints.
 IA: Salespeople mostly face scheduling issues.
 IA: Salespeople rarely face resistance if their product is strong."
-
 upfront-contracts,clip-27,54,Why is it better to confront objections early rather than later?,"CA: Because it prevents emotional investment in low-probability prospects.
 IA: Because emotional investment always closes sales faster.
 IA: Because distancing yourself increases buyer urgency.
 IA: Because disengaging guarantees a future referral."
-
 upfront-contracts,clip-28,55,How do many professional salespeople replace the request for literature?,"CA: Professionals often replace literature requests with online demos.
 IA: Professionals send long brochures instead of demos.
 IA: Professionals avoid demos because they take too long.
 IA: Professionals rely on automated emails instead of interaction."
-
 upfront-contracts,clip-28,56,What is the purpose of using upfront contracts in this online demo process?,"CA: Upfront contracts set clear expectations before a demo.
 IA: Upfront contracts are mainly used to negotiate pricing.
 IA: Upfront contracts replace the need for discovery questions.
 IA: Upfront contracts are only used after the demo."
-
 upfront-contracts,clip-29,57,What is the purpose of a rough draft contract in sales proposals?,"CA: Rough drafts create an initial proposal to review before finalizing.
 IA: Rough drafts are informal quotes sent to close faster.
 IA: Rough drafts replace the need for conversation with the prospect.
 IA: Rough drafts eliminate the need for discovery."
-
 upfront-contracts,clip-29,58,What does the 'last look' contract involve?,"CA: The last-look contract aims to present last and get a commitment for final review.
 IA: The last look contract guarantees the lowest price.
 IA: It requires matching every competitor’s offer.
 IA: It means refusing to present unless you are chosen."
-
 upfront-contracts,clip-30,59,What is the main sales challenge discussed in the role play?,"CA: The challenge is repeatedly calling on a buyer who never orders and adjusting the approach.
 IA: The challenge is convincing the buyer to switch suppliers immediately.
 IA: The challenge is offering bigger discounts each time.
 IA: The challenge is avoiding contact to preserve rapport."
-
 upfront-contracts,clip-30,60,What tool does David Sandler suggest using to change the sales approach?,"CA: He suggests using a 3×5 card to track visits dates and responses.
 IA: He suggests memorizing all interactions instead of tracking.
 IA: He suggests using scripts exclusively to guide all follow-ups.
 IA: He suggests limiting follow-up to one attempt only."
-
 upfront-contracts,clip-31,61,What does establishing a contract in sales mean?,"CA: Establishing a contract means knowing what’s happening but not guaranteeing every order.
 IA: Establishing a contract guarantees all future business.
 IA: Establishing a contract replaces the need for closing skills.
 IA: Establishing a contract eliminates the need for discovery."
-
 upfront-contracts,clip-31,62,What are the Sandler rules for upfront contracts?,"CA: Sandler rules include requiring decisions controlling fears fighting upfront never moving without commitment and setting expectations.
 IA: Sandler rules focus mainly on objection handling.
 IA: Sandler rules require giving discounts early.
 IA: Sandler rules emphasize long presentations to build authority."
-
 questioning-1,q1,32,Why might salespeople struggle with not sharing their knowledge early?,"CA: Salespeople struggle because they want to share their expertise and it’s hard to hold back after investing time learning it.
 IA: Salespeople struggle because prospects always want full technical explanations.
 IA: Salespeople struggle because sharing everything early guarantees faster closes.
@@ -326,7 +283,6 @@ questioning-9,q9,40,What does 'What you know can hurt you so dummy up' mean?,"CA
 IA: It means you should always answer every question immediately.
 IA: It means the more you talk the more control you gain.
 IA: It means prospects prefer long technical explanations early in the process."
-
 questioning-1,clip-32,63,Why is it critical not to share your information or expertise too soon in the selling process?,"CA: Sharing information too soon makes you an unpaid consultant and weakens your ability to close.
 IA: Sharing information early always builds immediate trust.
 IA: Giving expertise upfront increases the prospect’s urgency to buy.
@@ -479,4 +435,3 @@ questioning-2,clip-50,100,How much of the talking should the prospect do during 
 IA: Let the salesperson dominate the conversation.
 IA: Keep talking to prevent silence.
 IA: Silence weakens your position."
-
