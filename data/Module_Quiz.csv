@@ -274,3 +274,39 @@ pain,q13,63,"What is the fundamental Sandler rule regarding pain?","CA: No pain,
 IA: No budget, no sale.
 IA: No urgency, no sale.
 IA: No presentation, no sale."
+budget,q1,1,"What is the primary focus of the Budget step in the Sandler selling system?","CA: Discussing money, budgets, where the money comes from, and who controls spending.
+IA: Presenting features and benefits.
+IA: Building rapport only.
+IA: Demonstrating technical expertise."
+budget,q2,2,"Why does the Sandler system recommend dealing with money issues early?","CA: To qualify prospects early and avoid wasting time later in the sales process.
+IA: To shorten presentations.
+IA: To eliminate objections entirely.
+IA: To remove competition."
+budget,q3,3,"What is the recommended response when a prospect says they have no budget?","CA: Respond empathetically and ask how they plan to move forward.
+IA: End the meeting immediately.
+IA: Push the prospect to find the money.
+IA: Move straight to a proposal."
+budget,q4,4,"Why is asking for budget 'in round numbers' effective?","CA: It feels non-threatening and encourages honest sharing.
+IA: It avoids discussing money.
+IA: It speeds up the closing process.
+IA: It allows prices to be increased later."
+budget,q5,5,"What is the purpose of the monkey’s fist strategy?","CA: To make large buying decisions easier by selling a smaller first step.
+IA: To discount large deals heavily.
+IA: To avoid large sales.
+IA: To replace negotiation."
+budget,q6,6,"Why should salespeople avoid projecting their own financial limits onto prospects?","CA: Because what feels expensive to the salesperson may be affordable to the prospect.
+IA: Because prospects always have more money.
+IA: Because pricing should never be discussed.
+IA: Because it weakens authority."
+budget,q7,7,"Why does Sandler stress addressing payment terms upfront?","CA: To prevent future collection problems and misunderstandings.
+IA: To pressure prospects into buying.
+IA: To delay the decision step.
+IA: To justify higher prices."
+budget,q8,8,"Why does Sandler recommend using the word 'investment' instead of 'cost'?","CA: It implies a return rather than a simple cash outlay.
+IA: It sounds more professional.
+IA: It avoids budget discussions.
+IA: It guarantees a sale."
+budget,q9,9,"When is a sale truly closed according to the Sandler rules?","CA: When payment is received, taken to the bank, and cleared.
+IA: When the contract is signed.
+IA: When the proposal is accepted.
+IA: When the prospect agrees verbally."
