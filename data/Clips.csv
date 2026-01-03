@@ -62,15 +62,15 @@ pain,clip-60,"Recognising Real Pain vs Pain Indicators",https://hbarker1001-code
 pain,clip-61,"Active Listening as a Tool for Developing Pain",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-11.mp3,11
 pain,clip-62,"Creating Contrast Without Attacking the Competition",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-12.mp3,12
 pain,clip-63,"The Fundamental Rules of Pain: No Pain, No Sale",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-13.mp3,13
-budget	clip-64	Introduction to Budget	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-1.mp3	1
-budget	clip-65	Why Money Must Be Discussed Early	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-2.mp3	2
-budget	clip-66	Asking About Budget Without Scripts	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-3.mp3	3
-budget	clip-67	Negotiation and Finding the Middle Ground	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-4.mp3	4
-budget	clip-68	The Monkey’s Fist Strategy	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-5.mp3	5
-budget	clip-69	Overcoming Discomfort Talking About Money	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-6.mp3	6
-budget	clip-70	Using Past Buying Behaviour	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-7.mp3	7
-budget	clip-71	Handling Price Increases and Payment Terms	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-8.mp3	8
-budget	clip-72	Budget Rules: No Money, No Sale	https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-9.mp3	9
+budget,clip-64,Introduction to Budget,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-1.mp3,1
+budget,clip-65,Why Money Must Be Discussed Early,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-2.mp3,2
+budget,clip-66,Asking About Budget Without Scripts,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-3.mp3,3
+budget,clip-67,Negotiation and Finding the Middle Ground,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-4.mp3,4
+budget,clip-68,The Monkey’s Fist Strategy,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-5.mp3,5
+budget,clip-69,Overcoming Discomfort Talking About Money,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-6.mp3,6
+budget,clip-70,Using Past Buying Behaviour,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-7.mp3,7
+budget,clip-71,Handling Price Increases and Payment Terms,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-8.mp3,8
+budget,clip-72,Budget Rules: No Money No Sale,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-9.mp3,9
 decision,clip-73,Introduction to the Decision Step,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-1.mp3,1
 decision,clip-74,Understanding the Decision-Making Process,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-2.mp3,2
 decision,clip-75,Confirming Pain Budget and Next Steps,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-3.mp3,3
@@ -78,6 +78,7 @@ decision,clip-76,The Intermediate Decision-Making Technique,https://hbarker1001-
 decision,clip-77,Identifying the Cast of Characters,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-5.mp3,5
 decision,clip-78,Using Referrals and Internal Influence,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-6.mp3,6
 decision,clip-79,Final Rules of Decision and Commitment,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-7.mp3,7
+
 
 
 
