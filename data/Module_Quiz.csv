@@ -310,4 +310,32 @@ budget,q9,9,"When is a sale truly closed according to the Sandler rules?","CA: W
 IA: When the contract is signed.
 IA: When the proposal is accepted.
 IA: When the prospect agrees verbally."
+decision,q1,1,"What is the primary objective of the decision step?","CA: To understand how the prospect makes decisions and secure clarity.
+IA: To close aggressively.
+IA: To present features.
+IA: To negotiate price."
+decision,q2,2,"Why should decision authority always be verified?","CA: Because decisions are often shared or delegated.
+IA: Because prospects exaggerate authority.
+IA: Because authority is irrelevant.
+IA: Because budget matters more."
+decision,q3,3,"What must be confirmed before offering a presentation?","CA: Agreement on pain budget and next steps.
+IA: Demo availability.
+IA: Feature requests.
+IA: Contract terms."
+decision,q4,4,"When should the intermediate decision-making technique be used?","CA: When the prospect is not the final decision maker.
+IA: When closing quickly.
+IA: When price resistance exists.
+IA: When budget is unknown."
+decision,q5,5,"Who typically holds final authority in organizations?","CA: The stars with control over resources.
+IA: End users.
+IA: Supporting staff.
+IA: Bit players."
+decision,q6,6,"Why should referral influence be explored early?","CA: To leverage internal credibility and access.
+IA: To bypass process.
+IA: To discount pricing.
+IA: To rush decisions."
+decision,q7,7,"According to Sandler when is a decision step strong?","CA: When a clear yes or no is required.
+IA: When prospects feel comfortable.
+IA: When demos are delivered.
+IA: When objections stop."
 
