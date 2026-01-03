@@ -631,4 +631,85 @@ decision,clip-79,14,"What should you avoid with a weak decision step?","CA: Movi
 IA: Asking questions.
 IA: Reviewing pain.
 IA: Discussing money."
+closing,clip-80,1,"What does Sandler consider the real close in the sales process?","CA: The upfront contract covering pain, budget, and decision.
+IA: The final presentation.
+IA: The signed proposal.
+IA: The payment discussion."
+closing,clip-80,2,"What role does fulfillment play in Sandler selling?","CA: To confirm the close by showing how pain is solved within the contract.
+IA: To persuade the prospect.
+IA: To overcome objections.
+IA: To renegotiate price."
+closing,clip-81,3,"Why is the presentation step not meant to close the sale?","CA: Because the sale should already be closed during the contract step.
+IA: Because prospects dislike presentations.
+IA: Because pricing is discussed later.
+IA: Because decisions happen after delivery."
+closing,clip-81,4,"What should be reviewed at the start of the presentation?","CA: Pain, budget, and decision agreements.
+IA: Competitive positioning.
+IA: Product roadmap.
+IA: Marketing materials."
+closing,clip-82,5,"What is the first major fulfillment mistake Sandler warns against?","CA: Failing to clearly review the contract before presenting.
+IA: Talking too slowly.
+IA: Using too many visuals.
+IA: Asking for the order too early."
+closing,clip-82,6,"Why must each pain be confirmed as solved during the presentation?","CA: To ensure the prospect is fully comfortable moving forward.
+IA: To shorten the presentation.
+IA: To justify pricing.
+IA: To avoid questions."
+closing,clip-83,7,"What rule governs when a salesperson should take action in Sandler selling?","CA: Never make a move without a commitment.
+IA: Always deliver value first.
+IA: Always present twice.
+IA: Always ask for the sale."
+closing,clip-83,8,"Why is working without commitment dangerous?","CA: It wastes time and opens the door to competitors.
+IA: It delays pricing.
+IA: It reduces rapport.
+IA: It shortens sales cycles."
+closing,clip-84,9,"What should you show during a Sandler presentation?","CA: Only what directly solves the prospect’s pains.
+IA: Every feature available.
+IA: Competitive comparisons.
+IA: Technical depth."
+closing,clip-84,10,"What does it signal when a prospect interrupts your presentation?","CA: Buying interest.
+IA: Confusion.
+IA: Resistance.
+IA: Disengagement."
+closing,clip-85,11,"How should a strong presentation be structured?","CA: With a clear beginning, middle, and end.
+IA: As an open discussion.
+IA: Around product categories.
+IA: Based on competitor weaknesses."
+closing,clip-85,12,"What is the purpose of the thermometer technique during a presentation?","CA: To measure the prospect’s comfort and readiness to buy.
+IA: To determine budget.
+IA: To confirm authority.
+IA: To shorten the meeting."
+closing,clip-86,13,"Why is six the critical number in the thermometer technique?","CA: Ratings below six indicate serious problems with the sale.
+IA: It signals price resistance.
+IA: It confirms authority.
+IA: It triggers negotiation."
+closing,clip-86,14,"What should you do when the prospect reaches a ten on the thermometer?","CA: Ask what they want to do next and take the order.
+IA: Continue presenting.
+IA: Lower the price.
+IA: Schedule another meeting."
+closing,clip-87,15,"What is the main goal of the post-sell step?","CA: To eliminate buyer’s remorse and prevent cancellations.
+IA: To upsell immediately.
+IA: To exit quickly.
+IA: To renegotiate terms."
+closing,clip-87,16,"When is the best time to ask for referrals?","CA: During the post-sell when the client is happiest.
+IA: Before the presentation.
+IA: After delivery.
+IA: During negotiation."
+closing,clip-88,17,"Why are no back-outs allowed in the Sandler system?","CA: Because commitment is reinforced during post-sell.
+IA: To pressure prospects.
+IA: To speed delivery.
+IA: To avoid objections."
+closing,clip-88,18,"When is a sale truly closed according to Sandler?","CA: When the check is deposited and clears.
+IA: When the proposal is signed.
+IA: When the presentation ends.
+IA: When the prospect agrees verbally."
+closing,clip-89,19,"What are the three purposes of a good post-sell?","CA: Prevent remorse, set rules, and plant future business.
+IA: Increase urgency, upsell, and educate.
+IA: Reduce risk, renegotiate, and close again.
+IA: Speed delivery, discount, and follow up."
+closing,clip-89,20,"What is Sandler’s rule about asking for the sale?","CA: Never ask for the sale; let the prospect give it up.
+IA: Always ask directly.
+IA: Ask after objections.
+IA: Ask after delivery."
+
 
