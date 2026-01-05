@@ -438,4 +438,36 @@ BAT-average,q8,8,What determines how you feel according to Sandler?,"CA: How you
 IA: How you feel determines how you act.
 IA: Results determine emotions.
 IA: Motivation precedes action."
+ta-sales-situation,quiz-q1,1,"What is the primary goal of Transactional Analysis in selling?","CA: To understand and manage ego states to improve communication and buying decisions.
+IA: To manipulate prospects emotionally.
+IA: To replace traditional sales techniques.
+IA: To close faster using pressure."
+ta-sales-situation,quiz-q2,2,"Why is the Adult ego state essential at the beginning of a sale?","CA: It establishes clear, honest agreements through upfront contracts.
+IA: It pressures the prospect logically.
+IA: It replaces emotional selling.
+IA: It removes the need for nurturing."
+ta-sales-situation,quiz-q3,3,"What role does the Child ego state play in buying decisions?","CA: It is the part that emotionally wants to buy.
+IA: It approves budgets.
+IA: It sets pricing.
+IA: It negotiates contracts."
+ta-sales-situation,quiz-q4,4,"Why is nurturing critical when a prospect is in pain?","CA: Because pain triggers the child ego state and must be soothed before logic resumes.
+IA: Because it accelerates closing.
+IA: Because it avoids objections.
+IA: Because it builds urgency."
+ta-sales-situation,quiz-q5,5,"What causes crossed transactions in sales?","CA: Responding from the wrong ego state.
+IA: Asking budget questions too early.
+IA: Presenting features.
+IA: Using humor incorrectly."
+ta-sales-situation,quiz-q6,6,"How does Sandler recommend preventing manipulative selling?","CA: By setting upfront contracts between Adult ego states.
+IA: By increasing urgency.
+IA: By controlling the conversation tightly.
+IA: By appealing to fear."
+ta-sales-situation,quiz-q7,7,"What is the correct ego-state mix in Sandler selling?","CA: 0% Critical Parent, 30% Adult, 70% Nurturing Parent.
+IA: 50% Adult, 50% Child.
+IA: 70% Adult, 30% Parent.
+IA: Equal balance of all states."
+ta-sales-situation,quiz-q8,8,"What is the ultimate risk of ignoring ego states in selling?","CA: Creating resistance, backouts, and emotional breakdowns.
+IA: Longer presentations.
+IA: Slower qualification.
+IA: Reduced product knowledge."
 
