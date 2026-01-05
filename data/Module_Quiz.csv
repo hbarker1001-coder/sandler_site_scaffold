@@ -438,36 +438,79 @@ BAT-average,q8,8,What determines how you feel according to Sandler?,"CA: How you
 IA: How you feel determines how you act.
 IA: Results determine emotions.
 IA: Motivation precedes action."
-ta-sales-situation,quiz-q1,1,"What is the primary goal of Transactional Analysis in selling?","CA: To understand and manage ego states to improve communication and buying decisions.
+ta-sales-situation,q1,1,"What is the primary goal of Transactional Analysis in selling?","CA: To understand and manage ego states to improve communication and buying decisions.
 IA: To manipulate prospects emotionally.
 IA: To replace traditional sales techniques.
 IA: To close faster using pressure."
-ta-sales-situation,quiz-q2,2,"Why is the Adult ego state essential at the beginning of a sale?","CA: It establishes clear, honest agreements through upfront contracts.
+ta-sales-situation,q2,2,"Why is the Adult ego state essential at the beginning of a sale?","CA: It establishes clear, honest agreements through upfront contracts.
 IA: It pressures the prospect logically.
 IA: It replaces emotional selling.
 IA: It removes the need for nurturing."
-ta-sales-situation,quiz-q3,3,"What role does the Child ego state play in buying decisions?","CA: It is the part that emotionally wants to buy.
+ta-sales-situation,q3,3,"What role does the Child ego state play in buying decisions?","CA: It is the part that emotionally wants to buy.
 IA: It approves budgets.
 IA: It sets pricing.
 IA: It negotiates contracts."
-ta-sales-situation,quiz-q4,4,"Why is nurturing critical when a prospect is in pain?","CA: Because pain triggers the child ego state and must be soothed before logic resumes.
+ta-sales-situation,q4,4,"Why is nurturing critical when a prospect is in pain?","CA: Because pain triggers the child ego state and must be soothed before logic resumes.
 IA: Because it accelerates closing.
 IA: Because it avoids objections.
 IA: Because it builds urgency."
-ta-sales-situation,quiz-q5,5,"What causes crossed transactions in sales?","CA: Responding from the wrong ego state.
+ta-sales-situation,q5,5,"What causes crossed transactions in sales?","CA: Responding from the wrong ego state.
 IA: Asking budget questions too early.
 IA: Presenting features.
 IA: Using humor incorrectly."
-ta-sales-situation,quiz-q6,6,"How does Sandler recommend preventing manipulative selling?","CA: By setting upfront contracts between Adult ego states.
+ta-sales-situation,q6,6,"How does Sandler recommend preventing manipulative selling?","CA: By setting upfront contracts between Adult ego states.
 IA: By increasing urgency.
 IA: By controlling the conversation tightly.
 IA: By appealing to fear."
-ta-sales-situation,quiz-q7,7,"What is the correct ego-state mix in Sandler selling?","CA: 0% Critical Parent, 30% Adult, 70% Nurturing Parent.
+ta-sales-situation,q7,7,"What is the correct ego-state mix in Sandler selling?","CA: 0% Critical Parent, 30% Adult, 70% Nurturing Parent.
 IA: 50% Adult, 50% Child.
 IA: 70% Adult, 30% Parent.
 IA: Equal balance of all states."
-ta-sales-situation,quiz-q8,8,"What is the ultimate risk of ignoring ego states in selling?","CA: Creating resistance, backouts, and emotional breakdowns.
+ta-sales-situation,q8,8,"What is the ultimate risk of ignoring ego states in selling?","CA: Creating resistance, backouts, and emotional breakdowns.
 IA: Longer presentations.
 IA: Slower qualification.
 IA: Reduced product knowledge."
-
+setting-goals-1,q1,1,Which type of motivation produces lasting results?,"CA: Attitude motivation.
+IA: Incentive motivation.
+IA: Fear motivation.
+IA: Peer pressure."
+setting-goals-1,q2,2,Why do people often fail to achieve goals?,"CA: They do not write goals down or create a structured plan.
+IA: They lack talent.
+IA: They do not want success.
+IA: They are unlucky."
+setting-goals-1,q3,3,What role does visualization play in goal achievement?,"CA: It builds belief expectation and emotional connection to goals.
+IA: It replaces discipline.
+IA: It guarantees outcomes.
+IA: It removes obstacles."
+setting-goals-1,q4,4,Why should goals align with personal values?,"CA: To avoid inner conflict and maintain long-term motivation.
+IA: To increase authority.
+IA: To impress others.
+IA: To reduce effort."
+setting-goals-1,q5,5,What is the correct way to handle head trash?,"CA: Accept it understand it and minimize its impact.
+IA: Eliminate it completely.
+IA: Ignore it.
+IA: Replace it with pressure."
+setting-goals-1,q6,6,What is emphasized in the eleven-step plan of action?,"CA: Structure accountability flexibility and persistence.
+IA: Speed and intensity.
+IA: External rewards.
+IA: Competition with others."
+setting-goals-1,q7,7,What happens when someone has no personal plan?,"CA: They become part of someone else's plan.
+IA: They gain freedom.
+IA: They reduce responsibility.
+IA: They become more flexible."
+setting-goals-1,q8,8,Why does fear motivation fail over time?,"CA: People become desensitized hesitant or quit altogether.
+IA: Fear permanently increases performance.
+IA: Fear improves creativity.
+IA: Fear strengthens confidence."
+setting-goals-1,q9,9,According to Maslow what must be satisfied before self-actualization?,"CA: Lower-level needs such as physiological safety and social needs.
+IA: Recognition from others.
+IA: Financial wealth.
+IA: Career success."
+setting-goals-1,q10,10,Why is writing goals down important?,"CA: Written goals increase commitment clarity and follow-through.
+IA: Writing goals replaces action.
+IA: Writing goals guarantees success.
+IA: Writing goals reduces accountability."
+setting-goals-1,q11,11,What is the purpose of breaking goals into checkpoints?,"CA: To make large goals manageable and track progress over time.
+IA: To slow progress.
+IA: To avoid responsibility.
+IA: To reduce ambition."
