@@ -406,4 +406,36 @@ call-reluctance,q10,10,"When can a salesperson truly fail at prospecting?","CA: 
 IA: When rejection rates are high.
 IA: When scripts stop working.
 IA: When leads are unqualified."
+BAT-average,q1,1,What are the three points of the Sandler Success Triangle?,"CA: Behavior attitude and technique.
+IA: Beliefs actions and timing.
+IA: Budget authority and trust.
+IA: Bonding pain and closing."
+BAT-average,q2,2,Why is attitude placed at the top of the triangle?,"CA: Because attitude drives beliefs thoughts feelings and actions.
+IA: Because technique is difficult.
+IA: Because behavior is automatic.
+IA: Because markets control outcomes."
+BAT-average,q3,3,What are the three points of the U-Triangle?,"CA: Spirit mind and body.
+IA: Goals plans and actions.
+IA: Personal presence tactics and strategy.
+IA: Qualify close and fulfill."
+BAT-average,q4,4,How should sales goals be set according to Sandler?,"CA: Based on behaviors you can control.
+IA: Based on revenue only.
+IA: Based on close rate.
+IA: Based on presentations."
+BAT-average,q5,5,What is Minimum Daily Behavior?,"CA: Consistent daily actions required for success.
+IA: Weekly motivation routine.
+IA: Closing script.
+IA: Cold call opener."
+BAT-average,q6,6,What are the three points of the technique triangle?,"CA: Personal presence tactics and strategy.
+IA: Attitude behavior and technique.
+IA: Qualify close and fulfill.
+IA: Spirit mind and body."
+BAT-average,q7,7,What is the correct fulfillment approach?,"CA: Review the contract and present only pain solving elements.
+IA: Present all features.
+IA: Focus on objections.
+IA: Delay value discussion."
+BAT-average,q8,8,What determines how you feel according to Sandler?,"CA: How you act determines how you feel.
+IA: How you feel determines how you act.
+IA: Results determine emotions.
+IA: Motivation precedes action."
 
