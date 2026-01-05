@@ -925,4 +925,50 @@ ta-sales-situation,q14,14,"Which ego state wants to buy, decides, and gives perm
 IA: Adult wants, Parent decides, Child permits.
 IA: Parent wants, Child decides, Adult permits.
 IA: Child wants, Parent decides, Adult permits."
+module_id,clip_id,question_order,question_text,answer
+setting-goals,clip-101,1,How is motivation defined in this clip?,"CA: Motivation is desire held in expectation with belief that it will be accomplished and acted upon.
+IA: Motivation is simply wanting something badly.
+IA: Motivation is working harder than others.
+IA: Motivation is external pressure from management."
+setting-goals,clip-102,2,Which motivation types are short term?,"CA: Incentive and fear motivation are short term.
+IA: Attitude motivation.
+IA: Vision based motivation.
+IA: Emotional motivation only."
+setting-goals,clip-103,3,Why is attitude motivation considered superior?,"CA: Because it comes from internal desire rather than external rewards or fear.
+IA: Because it pays more money.
+IA: Because it is enforced by managers.
+IA: Because it relies on punishment."
+setting-goals,clip-104,4,What limits most peoples natural motivation?,"CA: Conditioning from parents society and education.
+IA: Lack of intelligence.
+IA: Poor luck.
+IA: Bad managers."
+setting-goals,clip-105,5,Why is establishing a priority of values important?,"CA: It prevents inner conflict by aligning goals with needs and wants.
+IA: It increases income faster.
+IA: It removes all obstacles.
+IA: It eliminates work life balance issues instantly."
+setting-goals,clip-106,6,What is the purpose of the 30 day card exercise?,"CA: To build internal motivation through written commitment and repetition.
+IA: To impress others.
+IA: To track sales numbers.
+IA: To set financial budgets."
+setting-goals,clip-107,7,What lesson does RIPITS teach?,"CA: You cannot achieve what you cannot clearly visualize.
+IA: Words control motivation.
+IA: Sports metaphors drive sales.
+IA: Motivation comes from slogans."
+setting-goals,clip-108,8,What does luck equal according to Sandler?,"CA: Preparation meeting opportunity.
+IA: Being in the right place.
+IA: Natural talent.
+IA: Hard work alone."
+setting-goals,clip-109,9,What is head trash?,"CA: Psychological baggage that interferes with goal achievement.
+IA: Laziness.
+IA: Poor planning.
+IA: External obstacles."
+setting-goals,clip-110,10,Why are checkpoints important?,"CA: They break large goals into manageable steps with deadlines.
+IA: They increase pressure.
+IA: They replace planning.
+IA: They eliminate risk."
+setting-goals,clip-111,11,Why are goal books and visualization effective?,"CA: They keep goals emotionally alive and reinforce motivation daily.
+IA: They replace action.
+IA: They work without effort.
+IA: They guarantee success."
+
 
