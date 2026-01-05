@@ -863,4 +863,66 @@ BAT-average,clip-09,18,What is a core BAT rule about feelings?,"CA: Correct acti
 IA: Feelings must come first.
 IA: Results control emotions.
 IA: Confidence precedes action."
+ta-sales-situation,q1,1,"What are the three ego states in Transactional Analysis?","CA: Parent, Adult, and Child.
+IA: Logical, Emotional, and Technical.
+IA: Buyer, Seller, and Influencer.
+IA: Conscious, Subconscious, and Reactive."
+ta-sales-situation,q2,2,"Why is the nurturing parent ego state preferred in sales?","CA: Because it builds trust, comfort, and emotional safety for the prospect.
+IA: Because it pressures prospects to comply.
+IA: Because it speeds up decision-making aggressively.
+IA: Because it eliminates the need for rapport."
+
+ta-sales-situation,q3,3,"What does 'taping' refer to in Transactional Analysis?","CA: Early childhood programming recorded during the first six years of life.
+IA: Adult learning habits developed at work.
+IA: Sales scripts memorized through training.
+IA: Negotiation patterns learned in business."
+ta-sales-situation,q4,4,"Can childhood taping be erased later in life?","CA: No, it cannot be erased, only managed or turned on and off.
+IA: Yes, through repetition and discipline.
+IA: Only with professional therapy.
+IA: Yes, once adulthood is reached."
+
+ta-sales-situation,q5,5,"What is the 'child tape' or 'little person'?","CA: The emotional part of us that stores feelings, fears, and approval needs.
+IA: The rational decision-making part of the brain.
+IA: A sales personality type.
+IA: A confidence-building technique."
+ta-sales-situation,q6,6,"How can the child tape affect sales performance?","CA: It can create fear, approval-seeking, and reluctance to take action.
+IA: It improves persuasion skills.
+IA: It removes emotional responses.
+IA: It strengthens logical decision-making."
+
+ta-sales-situation,q7,7,"What should a salesperson do when a prospect becomes emotional?","CA: Shift into the nurturing parent role to support and calm them.
+IA: Push forward with logic.
+IA: Ignore the emotion and continue.
+IA: Close immediately."
+ta-sales-situation,q8,8,"Roughly what percentage of selling comes from nurturing according to Sandler?","CA: About 70%.
+IA: About 30%.
+IA: About 50%.
+IA: About 10%."
+
+ta-sales-situation,q9,9,"What are the three types of transactions in Transactional Analysis?","CA: Complementary, crossed, and ulterior.
+IA: Logical, emotional, and persuasive.
+IA: Open, closed, and neutral.
+IA: Buyer-led, seller-led, and shared."
+ta-sales-situation,q10,10,"What is the Sandler rule for handling uncomfortable feelings?","CA: If you feel it, say it gently.
+IA: Suppress it and move on.
+IA: Confront it aggressively.
+IA: Ignore it until later."
+
+ta-sales-situation,q11,11,"Which ego state is responsible for making the contract?","CA: The Adult ego state.
+IA: The Child ego state.
+IA: The Critical Parent.
+IA: The Nurturing Parent."
+ta-sales-situation,q12,12,"Why do backouts often occur after a sale?","CA: Because the child bought but the parent never gave permission.
+IA: Because pricing was too low.
+IA: Because urgency was missing.
+IA: Because competitors interfered."
+
+ta-sales-situation,q13,13,"According to Sandler, how much selling should come from the critical parent?","CA: 0%.
+IA: 10%.
+IA: 30%.
+IA: 50%."
+ta-sales-situation,q14,14,"Which ego state wants to buy, decides, and gives permission?","CA: Child wants, Adult decides, Parent permits.
+IA: Adult wants, Parent decides, Child permits.
+IA: Parent wants, Child decides, Adult permits.
+IA: Child wants, Parent decides, Adult permits."
 
