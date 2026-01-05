@@ -791,184 +791,227 @@ call-reluctance,clip-99,20,"When can a salesperson truly fail at prospecting?","
 IA: When rejection rates are high.
 IA: When scripts stop working.
 IA: When leads are unqualified."
-BAT-average,clip-01,1,Which element has the greatest impact on long-term sales success?,"CA: Attitude drives what you think feel and do so it has the greatest impact.
+BAT-average,clip-101,1,Which element has the greatest impact on long-term sales success?,"CA: Attitude drives what you think feel and do so it has the greatest impact.
 IA: Technique is the most important factor.
 IA: Market conditions determine success more than anything else.
 IA: Product quality alone drives results."
-BAT-average,clip-01,2,What three areas make up the Sandler Success Triangle?,"CA: Attitude behavior and technique.
+BAT-average,clip-101,2,What three areas make up the Sandler Success Triangle?,"CA: Attitude behavior and technique.
 IA: Skill timing and pricing.
 IA: Confidence closing and persuasion.
 IA: Prospecting presenting and closing."
-BAT-average,clip-02,3,What are the three points of the U-Triangle?,"CA: Spirit mind and body.
+BAT-average,clip-102,3,What are the three points of the U-Triangle?,"CA: Spirit mind and body.
 IA: Goals plans and actions.
 IA: Personal presence tactics and strategy.
 IA: Qualify close and fulfill."
-BAT-average,clip-02,4,Why does the body matter for mindset and performance?,"CA: Physical condition directly affects thinking emotional state and performance.
+BAT-average,clip-102,4,Why does the body matter for mindset and performance?,"CA: Physical condition directly affects thinking emotional state and performance.
 IA: The body has no impact if mindset is strong.
 IA: Only technique affects results.
 IA: Physical health matters only for stamina."
-BAT-average,clip-03,5,How do people often try to feel okay about themselves?,"CA: By finding someone else who appears more not okay than they are.
+BAT-average,clip-103,5,How do people often try to feel okay about themselves?,"CA: By finding someone else who appears more not okay than they are.
 IA: By increasing income.
 IA: By avoiding conflict.
 IA: By learning more product knowledge."
-BAT-average,clip-03,6,Why is I want to think it over the worst outcome?,"CA: It creates uncertainty and second guessing instead of clarity.
+BAT-average,clip-103,6,Why is I want to think it over the worst outcome?,"CA: It creates uncertainty and second guessing instead of clarity.
 IA: It always means the prospect is close.
 IA: It shortens the sales cycle.
 IA: It shows respect for the process."
-BAT-average,clip-04,7,What does behavior mean in the BAT framework?,"CA: Productive use of time and level of commitment to goals plans and actions.
+BAT-average,clip-104,7,What does behavior mean in the BAT framework?,"CA: Productive use of time and level of commitment to goals plans and actions.
 IA: Confidence level on calls.
 IA: Presentation skill.
 IA: Objection handling ability."
-BAT-average,clip-04,8,What determines how you feel according to Sandler?,"CA: How you act determines how you feel.
+BAT-average,clip-104,8,What determines how you feel according to Sandler?,"CA: How you act determines how you feel.
 IA: Feelings determine actions.
 IA: Results determine emotions.
 IA: Motivation comes first."
-BAT-average,clip-05,9,What is Minimum Daily Behavior?,"CA: The essential daily actions required to create success.
+BAT-average,clip-105,9,What is Minimum Daily Behavior?,"CA: The essential daily actions required to create success.
 IA: Optional extra activities.
 IA: A weekly planning exercise.
 IA: A motivation technique."
-BAT-average,clip-05,10,Why is vitality essential for success?,"CA: Vitality supplies the energy that makes actions effective and sustainable.
+BAT-average,clip-105,10,Why is vitality essential for success?,"CA: Vitality supplies the energy that makes actions effective and sustainable.
 IA: Vitality replaces discipline.
 IA: Vitality removes the need for tactics.
 IA: Vitality has no impact on results."
-BAT-average,clip-06,11,What are the three points of the technique triangle?,"CA: Personal presence tactics and strategy.
+BAT-average,clip-106,11,What are the three points of the technique triangle?,"CA: Personal presence tactics and strategy.
 IA: Attitude behavior and technique.
 IA: Qualify close and fulfill.
 IA: Spirit mind and body."
-BAT-average,clip-06,12,What should happen in the fulfillment step?,"CA: Review the contract and show only what solves the prospect’s pain.
+BAT-average,clip-106,12,What should happen in the fulfillment step?,"CA: Review the contract and show only what solves the prospect’s pain.
 IA: Present every feature.
 IA: Focus on competitors.
 IA: Delay pain discussion."
-BAT-average,clip-07,13,What is personal presence?,"CA: The emotional impact you have on others.
+BAT-average,clip-107,13,What is personal presence?,"CA: The emotional impact you have on others.
 IA: Ability to dominate conversation.
 IA: Ability to close quickly.
 IA: Technical expertise."
-BAT-average,clip-07,14,How do you best improve personal presence?,"CA: Work on mind body and spirit through the U-Triangle.
+BAT-average,clip-107,14,How do you best improve personal presence?,"CA: Work on mind body and spirit through the U-Triangle.
 IA: Learn better scripts.
 IA: Add humor.
 IA: Speak faster."
-BAT-average,clip-08,15,How do Sandler trainers support sales managers?,"CA: By handling difficult coaching so managers can focus on leadership.
+BAT-average,clip-108,15,How do Sandler trainers support sales managers?,"CA: By handling difficult coaching so managers can focus on leadership.
 IA: By replacing managers.
 IA: By prospecting for the team.
 IA: By closing deals."
-BAT-average,clip-08,16,What does Presidents Club represent?,"CA: A benchmark of high performing salespeople supported by training.
+BAT-average,clip-108,16,What does Presidents Club represent?,"CA: A benchmark of high performing salespeople supported by training.
 IA: Product certification.
 IA: Management leadership group.
 IA: Entry level onboarding."
-BAT-average,clip-09,17,What does burn your bridges mean?,"CA: Commit fully with no retreat option.
+BAT-average,clip-109,17,What does burn your bridges mean?,"CA: Commit fully with no retreat option.
 IA: Quit your company.
 IA: Avoid failure.
 IA: Stop learning."
-BAT-average,clip-09,18,What is a core BAT rule about feelings?,"CA: Correct action creates positive feelings.
+BAT-average,clip-109,18,What is a core BAT rule about feelings?,"CA: Correct action creates positive feelings.
 IA: Feelings must come first.
 IA: Results control emotions.
 IA: Confidence precedes action."
-ta-sales-situation,q1,1,"What are the three ego states in Transactional Analysis?","CA: Parent, Adult, and Child.
-IA: Logical, Emotional, and Technical.
-IA: Buyer, Seller, and Influencer.
-IA: Conscious, Subconscious, and Reactive."
-ta-sales-situation,q2,2,"Why is the nurturing parent ego state preferred in sales?","CA: Because it builds trust, comfort, and emotional safety for the prospect.
-IA: Because it pressures prospects to comply.
-IA: Because it speeds up decision-making aggressively.
-IA: Because it eliminates the need for rapport."
-
-ta-sales-situation,q3,3,"What does 'taping' refer to in Transactional Analysis?","CA: Early childhood programming recorded during the first six years of life.
-IA: Adult learning habits developed at work.
-IA: Sales scripts memorized through training.
-IA: Negotiation patterns learned in business."
-ta-sales-situation,q4,4,"Can childhood taping be erased later in life?","CA: No, it cannot be erased, only managed or turned on and off.
-IA: Yes, through repetition and discipline.
-IA: Only with professional therapy.
-IA: Yes, once adulthood is reached."
-
-ta-sales-situation,q5,5,"What is the 'child tape' or 'little person'?","CA: The emotional part of us that stores feelings, fears, and approval needs.
-IA: The rational decision-making part of the brain.
-IA: A sales personality type.
-IA: A confidence-building technique."
-ta-sales-situation,q6,6,"How can the child tape affect sales performance?","CA: It can create fear, approval-seeking, and reluctance to take action.
-IA: It improves persuasion skills.
-IA: It removes emotional responses.
-IA: It strengthens logical decision-making."
-
-ta-sales-situation,q7,7,"What should a salesperson do when a prospect becomes emotional?","CA: Shift into the nurturing parent role to support and calm them.
-IA: Push forward with logic.
-IA: Ignore the emotion and continue.
-IA: Close immediately."
-ta-sales-situation,q8,8,"Roughly what percentage of selling comes from nurturing according to Sandler?","CA: About 70%.
-IA: About 30%.
-IA: About 50%.
-IA: About 10%."
-
-ta-sales-situation,q9,9,"What are the three types of transactions in Transactional Analysis?","CA: Complementary, crossed, and ulterior.
-IA: Logical, emotional, and persuasive.
-IA: Open, closed, and neutral.
-IA: Buyer-led, seller-led, and shared."
-ta-sales-situation,q10,10,"What is the Sandler rule for handling uncomfortable feelings?","CA: If you feel it, say it gently.
-IA: Suppress it and move on.
-IA: Confront it aggressively.
-IA: Ignore it until later."
-
-ta-sales-situation,q11,11,"Which ego state is responsible for making the contract?","CA: The Adult ego state.
-IA: The Child ego state.
-IA: The Critical Parent.
-IA: The Nurturing Parent."
-ta-sales-situation,q12,12,"Why do backouts often occur after a sale?","CA: Because the child bought but the parent never gave permission.
-IA: Because pricing was too low.
-IA: Because urgency was missing.
-IA: Because competitors interfered."
-
-ta-sales-situation,q13,13,"According to Sandler, how much selling should come from the critical parent?","CA: 0%.
-IA: 10%.
-IA: 30%.
-IA: 50%."
-ta-sales-situation,q14,14,"Which ego state wants to buy, decides, and gives permission?","CA: Child wants, Adult decides, Parent permits.
-IA: Adult wants, Parent decides, Child permits.
-IA: Parent wants, Child decides, Adult permits.
-IA: Child wants, Parent decides, Adult permits."
-module_id,clip_id,question_order,question_text,answer
-setting-goals,clip-101,1,How is motivation defined in this clip?,"CA: Motivation is desire held in expectation with belief that it will be accomplished and acted upon.
-IA: Motivation is simply wanting something badly.
-IA: Motivation is working harder than others.
-IA: Motivation is external pressure from management."
-setting-goals,clip-102,2,Which motivation types are short term?,"CA: Incentive and fear motivation are short term.
-IA: Attitude motivation.
-IA: Vision based motivation.
-IA: Emotional motivation only."
-setting-goals,clip-103,3,Why is attitude motivation considered superior?,"CA: Because it comes from internal desire rather than external rewards or fear.
-IA: Because it pays more money.
-IA: Because it is enforced by managers.
-IA: Because it relies on punishment."
-setting-goals,clip-104,4,What limits most peoples natural motivation?,"CA: Conditioning from parents society and education.
-IA: Lack of intelligence.
-IA: Poor luck.
-IA: Bad managers."
-setting-goals,clip-105,5,Why is establishing a priority of values important?,"CA: It prevents inner conflict by aligning goals with needs and wants.
-IA: It increases income faster.
-IA: It removes all obstacles.
-IA: It eliminates work life balance issues instantly."
-setting-goals,clip-106,6,What is the purpose of the 30 day card exercise?,"CA: To build internal motivation through written commitment and repetition.
+TA-sales-situation,clip-110,1,What are the three ego states in Transactional Analysis?,"CA: Parent Adult and Child.
+IA: Leader Thinker Follower.
+IA: Logic Emotion Instinct.
+IA: Buyer Seller Observer."
+TA-sales-situation,clip-110,2,What is the primary role of the Adult ego state?,"CA: To objectively process information and choose responses.
+IA: To nurture emotions.
+IA: To enforce rules.
+IA: To express creativity."
+TA-sales-situation,clip-111,3,Why is the nurturing parent ego state important in sales?,"CA: It builds trust and helps prospects feel safe and understood.
+IA: It applies pressure to close.
+IA: It challenges objections aggressively.
+IA: It controls the conversation."
+TA-sales-situation,clip-111,4,How much of selling should come from the nurturing parent according to Sandler?,"CA: About seventy percent.
+IA: One hundred percent.
+IA: Fifty percent.
+IA: Only at the close."
+TA-sales-situation,clip-112,5,What is early life taping?,"CA: Subconscious programming formed in the first six years of life.
+IA: Sales habits learned at work.
+IA: Adult decision making skills.
+IA: Cultural advertising influence."
+TA-sales-situation,clip-112,6,Can early childhood tapes be erased?,"CA: No they can only be recognized and managed.
+IA: Yes through discipline.
+IA: Yes through motivation.
+IA: Yes through repetition."
+TA-sales-situation,clip-113,7,What is the child tape or little person?,"CA: The emotional part of us that holds fears and feelings.
+IA: The logical decision maker.
+IA: The authority voice.
+IA: The professional role."
+TA-sales-situation,clip-113,8,How should a salesperson respond when a prospect becomes emotional?,"CA: Shift into the nurturing parent role.
+IA: Push for logic.
+IA: Apply urgency.
+IA: End the meeting."
+TA-sales-situation,clip-114,9,What is a crossed transaction?,"CA: When ego state responses do not align and cause disruption.
+IA: When both parties agree.
+IA: When emotions disappear.
+IA: When logic dominates."
+TA-sales-situation,clip-114,10,How should a salesperson respond to a critical parent attack?,"CA: Stay in adult or nurturing parent and avoid reacting emotionally.
+IA: Respond critically.
+IA: Withdraw completely.
+IA: Match the aggression."
+TA-sales-situation,clip-115,11,What is the purpose of an upfront contract in TA selling?,"CA: To establish clear adult to adult agreements.
+IA: To pressure the child ego state.
+IA: To hide objections.
+IA: To speed the close."
+TA-sales-situation,clip-115,12,Why must the salesperson return to the Adult ego state at the end?,"CA: To confirm decisions are rational and prevent buyer remorse.
+IA: To increase excitement.
+IA: To apply last minute pressure.
+IA: To introduce new features."
+setting-goals-1,clip-116,1,What is the core definition of motivation according to David Sandler?,"CA: Desire held in expectation with belief it will be accomplished.
+IA: External rewards combined with pressure.
+IA: Fear of failure.
+IA: Competition with others."
+setting-goals-1,clip-116,2,Why is goal setting essential for long term success?,"CA: Without a plan you become part of someone else’s plan.
+IA: It guarantees immediate results.
+IA: It replaces discipline.
+IA: It removes uncertainty completely."
+setting-goals-1,clip-117,3,What are the three basic types of motivation identified by David Sandler?,"CA: Incentive fear and attitude motivation.
+IA: Internal external and social motivation.
+IA: Logical emotional and instinctive motivation.
+IA: Financial personal and professional motivation."
+setting-goals-1,clip-117,4,Why does incentive motivation eventually stop working?,"CA: Once the reward is achieved it no longer motivates behavior.
+IA: People stop caring about money.
+IA: Incentives reduce discipline.
+IA: Incentives eliminate desire."
+setting-goals-1,clip-118,5,Why is fear motivation ineffective long term?,"CA: People become desensitized or emotionally shut down.
+IA: Fear makes people more creative.
+IA: Fear increases trust.
+IA: Fear creates loyalty."
+setting-goals-1,clip-118,6,What is the major downside of fear motivation in the workplace?,"CA: It creates hesitation stress and avoidance behaviors.
+IA: It increases confidence.
+IA: It builds initiative.
+IA: It improves decision making."
+setting-goals-1,clip-119,7,What type of motivation does Sandler consider most powerful?,"CA: Attitude motivation driven by internal desire.
+IA: Incentive motivation.
+IA: Fear motivation.
+IA: Peer comparison motivation."
+setting-goals-1,clip-119,8,How is attitude motivation developed?,"CA: By setting meaningful goals across major life areas.
+IA: By increasing pressure.
+IA: By competing with others.
+IA: By removing failure."
+setting-goals-1,clip-120,9,What are the seven major life areas used for goal setting?,"CA: Social physical spiritual financial mental work and family.
+IA: Career health income education status hobbies.
+IA: Business sales leadership skills mindset.
+IA: Money power recognition influence success."
+setting-goals-1,clip-120,10,Why should goals be spread across multiple life areas?,"CA: To create balance and long term motivation.
+IA: To increase workload.
+IA: To avoid accountability.
+IA: To simplify decision making."
+setting-goals-1,clip-121,11,What does self actualization motivation focus on?,"CA: Realizing inner values and full potential.
+IA: Avoiding discomfort.
+IA: Gaining approval.
+IA: Meeting minimum requirements."
+setting-goals-1,clip-121,12,Why do parents and society often reduce natural motivation?,"CA: Through conditioning that limits creativity and individuality.
+IA: By encouraging independence.
+IA: By promoting risk taking.
+IA: By teaching ambition."
+setting-goals-1,clip-122,13,What does positive expectancy consist of?,"CA: Self confidence self acceptance self respect and self reliance.
+IA: Optimism and enthusiasm.
+IA: Skill and experience.
+IA: Intelligence and discipline."
+setting-goals-1,clip-122,14,Why is prioritizing values essential in goal setting?,"CA: To avoid inner conflict and competing demands.
 IA: To impress others.
-IA: To track sales numbers.
-IA: To set financial budgets."
-setting-goals,clip-107,7,What lesson does RIPITS teach?,"CA: You cannot achieve what you cannot clearly visualize.
-IA: Words control motivation.
-IA: Sports metaphors drive sales.
-IA: Motivation comes from slogans."
-setting-goals,clip-108,8,What does luck equal according to Sandler?,"CA: Preparation meeting opportunity.
-IA: Being in the right place.
-IA: Natural talent.
-IA: Hard work alone."
-setting-goals,clip-109,9,What is head trash?,"CA: Psychological baggage that interferes with goal achievement.
+IA: To reduce effort.
+IA: To increase authority."
+setting-goals-1,clip-123,15,What is the purpose of the index card commitment exercise?,"CA: To create internal motivation through written commitment.
+IA: To pressure behavior.
+IA: To test discipline.
+IA: To track performance."
+setting-goals-1,clip-123,16,Why must the goal selected for the exercise be low risk?,"CA: To ensure completion and build belief.
+IA: To avoid accountability.
+IA: To limit effort.
+IA: To reduce learning."
+setting-goals-1,clip-124,17,What lesson does the RIPITS story illustrate?,"CA: You must know what you want to recognize it.
+IA: Motivation comes from urgency.
+IA: Goals are optional.
+IA: Success is random."
+setting-goals-1,clip-124,18,Why do most people struggle with motivation?,"CA: They lack a clear picture of their desired future.
+IA: They lack talent.
+IA: They avoid responsibility.
+IA: They dislike change."
+setting-goals-1,clip-125,19,What does the phrase luck is preparation meeting opportunity mean?,"CA: Clear goals allow you to seize opportunities.
+IA: Luck is accidental.
+IA: Preparation replaces goals.
+IA: Opportunity guarantees success."
+setting-goals-1,clip-125,20,Why do many people avoid setting goals?,"CA: It forces personal responsibility for outcomes.
+IA: Goals are too difficult.
+IA: Goals require money.
+IA: Goals reduce freedom."
+setting-goals-1,clip-126,21,What is head trash in goal achievement?,"CA: Mental baggage that interferes with progress.
 IA: Laziness.
-IA: Poor planning.
-IA: External obstacles."
-setting-goals,clip-110,10,Why are checkpoints important?,"CA: They break large goals into manageable steps with deadlines.
-IA: They increase pressure.
-IA: They replace planning.
-IA: They eliminate risk."
-setting-goals,clip-111,11,Why are goal books and visualization effective?,"CA: They keep goals emotionally alive and reinforce motivation daily.
-IA: They replace action.
-IA: They work without effort.
-IA: They guarantee success."
-
-
+IA: Lack of intelligence.
+IA: External pressure."
+setting-goals-1,clip-126,22,How should head trash be handled?,"CA: Accept it understand it and minimize its impact.
+IA: Eliminate it completely.
+IA: Ignore it.
+IA: Replace it with pressure."
+setting-goals-1,clip-127,23,What is the purpose of the eleven step plan of action?,"CA: To turn dreams into achievable structured goals.
+IA: To increase urgency.
+IA: To apply pressure.
+IA: To create competition."
+setting-goals-1,clip-127,24,Why is a reward system included in the plan?,"CA: To motivate the child ego state.
+IA: To control behavior.
+IA: To punish failure.
+IA: To speed execution."
+setting-goals-1,clip-128,25,Why is having a written goals program critical?,"CA: It sustains motivation during setbacks.
+IA: It eliminates risk.
+IA: It replaces selling skills.
+IA: It guarantees income."
+setting-goals-1,clip-128,26,What does being part of your own plan mean?,"CA: You define your goals instead of fulfilling someone else’s.
+IA: You avoid responsibility.
+IA: You reduce workload.
+IA: You delay decisions."
