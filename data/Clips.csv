@@ -1,4 +1,3 @@
-module_id,clip_id,clip_title,audio_url,order
 why-have-a-system,clip-01,Intro,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/why-have-a-system-1.mp3,1
 why-have-a-system,clip-02,Ejector Seat,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/why-have-a-system-2.mp3,2
 why-have-a-system,clip-03,Importance of a system,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/why-have-a-system-3.mp3,3
@@ -22,7 +21,7 @@ bonding-rapport,clip-20,Building Rapport Effectively,https://hbarker1001-coder.g
 upfront-contracts,clip-21,Rules of a Sales Interview,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-1.mp3,1
 upfront-contracts,clip-22,Establishing An Upfront Contract,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-2.mp3,2
 upfront-contracts,clip-23,Elements of An Upfront Contract,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-3.mp3,3
-upfront-contracts,clip-24,Appreciate. Naturally. Obviously. Typically,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-4.mp3,4
+upfront-contracts,clip-24,Appreciate Naturally Obviously Typically,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-4.mp3,4
 upfront-contracts,clip-25,Competency,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-5.mp3,5
 upfront-contracts,clip-26,Confronting Your Fears,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-6.mp3,6
 upfront-contracts,clip-27,Roadblocks and Objections,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/upfront-contracts-7.mp3,7
@@ -42,80 +41,22 @@ questioning-1,clip-40,Summary,https://hbarker1001-coder.github.io/sandler_site_s
 questioning-2,clip-41,Intro to Reversing,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-1.mp3,1
 questioning-2,clip-42,Look Beyond Surface Objections,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-2.mp3,2
 questioning-2,clip-43,Nurturing Conversations,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-3.mp3,3
-batting-average,clip-01,"Attitude, Behavior, and Technique","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-1.mp3",1
-batting-average,clip-02,"The U-Triangle: Spirit, Mind, Body","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-2.mp3",2
-batting-average,clip-03,"Self-Concept and Feeling OK","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-3.mp3",3
-batting-average,clip-04,"Behavior, Commitment, and Action","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-4.mp3",4
-batting-average,clip-05,"Vitality and Minimum Daily Behavior","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-5.mp3",5
-batting-average,clip-06,"Technique and the Strategy Triangle","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-6.mp3",6
-batting-average,clip-07,"Personal Presence and Tactics","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-7.mp3",7
-batting-average,clip-08,"Managers, Trainers, and President’s Club","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-8.mp3",8
-batting-average,clip-09,"BAT Rules for Long-Term Success","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-9.mp3",9
 questioning-2,clip-44,Amateur VS Sandler,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-4.mp3,4
 questioning-2,clip-45,Questions with Questions,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-5.mp3,5
 questioning-2,clip-46,Statements into Questions,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-6.mp3,6
 questioning-2,clip-47,Methods of Extracting Information,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-7.mp3,7
 questioning-2,clip-48,Controlling Sales Conversations,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-8.mp3,8
-questioning-2,clip-49,"Stroke, Repeat, Reverse",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-9.mp3,9
+questioning-2,clip-49,Stroke Repeat Reverse,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-9.mp3,9
 questioning-2,clip-50,Rules of Reversing,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/questioning-2-10.mp3,10
-pain,clip-51,"Why People Buy: Emotional Pain vs Logical Interest",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-1.mp3,1
-pain,clip-52,"Pain, Pleasure, and the Real Motivation to Buy",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-2.mp3,2
-pain,clip-53,"The Salesperson’s Role in Discovering Pain (Not Playing Psychologist)",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-3.mp3,3
-pain,clip-54,"Finding Fit vs No Fit: The Real Objective of the Pain Step",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-4.mp3,4
-pain,clip-55,"Negative Reverse Selling and Letting the Prospect Talk",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-5.mp3,5
-pain,clip-56,"Why Features and Benefits Don’t Sell Without Pain",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-6.mp3,6
-pain,clip-57,"The Well–Hurt–Sick–Critical Pain Formula",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-7.mp3,7
-pain,clip-58,"Using the Pain Funnel to Make Problems Personal",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-8.mp3,8
-pain,clip-59,"Guiding Prospects to Discover Their Own Pain",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-9.mp3,9
-pain,clip-60,"Recognising Real Pain vs Pain Indicators",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-10.mp3,10
-pain,clip-61,"Active Listening as a Tool for Developing Pain",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-11.mp3,11
-pain,clip-62,"Creating Contrast Without Attacking the Competition",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-12.mp3,12
-pain,clip-63,"The Fundamental Rules of Pain: No Pain, No Sale",https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/pain-13.mp3,13
-budget,clip-64,Introduction to Budget,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-1.mp3,1
-budget,clip-65,Why Money Must Be Discussed Early,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-2.mp3,2
-budget,clip-66,Asking About Budget Without Scripts,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-3.mp3,3
-budget,clip-67,Negotiation and Finding the Middle Ground,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-4.mp3,4
-budget,clip-68,The Monkey’s Fist Strategy,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-5.mp3,5
-budget,clip-69,Overcoming Discomfort Talking About Money,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-6.mp3,6
-budget,clip-70,Using Past Buying Behaviour,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-7.mp3,7
-budget,clip-71,Handling Price Increases and Payment Terms,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-8.mp3,8
-budget,clip-72,Budget Rules: No Money No Sale,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/budget-9.mp3,9
-decision,clip-73,Introduction to the Decision Step,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-1.mp3,1
-decision,clip-74,Understanding the Decision-Making Process,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-2.mp3,2
-decision,clip-75,Confirming Pain Budget and Next Steps,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-3.mp3,3
-decision,clip-76,The Intermediate Decision-Making Technique,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-4.mp3,4
-decision,clip-77,Identifying the Cast of Characters,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-5.mp3,5
-decision,clip-78,Using Referrals and Internal Influence,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-6.mp3,6
-decision,clip-79,Final Rules of Decision and Commitment,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/decision-7.mp3,7
-closing,clip-80,Closing Is the Contract,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-1.mp3,1
-closing,clip-81,Presentation Confirms the Close,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-2.mp3,2
-closing,clip-82,Fulfillment Mistakes That Kill Deals,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-3.mp3,3
-closing,clip-83,Never Move Without Commitment,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-4.mp3,4
-closing,clip-84,Showing Only What Solves the Pain,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-5.mp3,5
-closing,clip-85,How to Structure a Winning Presentation,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-6.mp3,6
-closing,clip-86,The Thermometer Technique,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-7.mp3,7
-closing,clip-87,Post-Sell Locking Up the Sale,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-8.mp3,8
-closing,clip-88,Post-Sell Control and No Back Outs,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-9.mp3,9
-closing,clip-89,Final Closing Rules and Philosophy,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/closing-10.mp3,10
-call-reluctance,clip-90,Introduction to Call Reluctance,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-1.mp3,1
-call-reluctance,clip-91,Being Invited In and Sounding Financially Independent,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-2.mp3,2
-call-reluctance,clip-92,Getting Past Gatekeepers Naturally,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-3.mp3,3
-call-reluctance,clip-93,The Seven Elements of a Sandler Prospecting Call,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-4.mp3,4
-call-reluctance,clip-94,Prospecting Call Example: Identifying Pain and Booking the Meeting,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-5.mp3,5
-call-reluctance,clip-95,Calling the Top and Working Down,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-6.mp3,6
-call-reluctance,clip-96,Handling the “Send Me Literature” Stall,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-7.mp3,7
-call-reluctance,clip-97,Role Play: Turning a Tough Prospect into an Appointment,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-8.mp3,8
-call-reluctance,clip-98,Eight Telephone Tips to Eliminate Call Reluctance,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-9.mp3,9
-call-reluctance,clip-99,Sandler Prospecting Rules and Mindset,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/call-reluctance-10.mp3,10
-BAT-average,clip-01,"Attitude, Behavior, and Technique","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-1.mp3",1
-BAT-average,clip-02,"The U-Triangle: Spirit, Mind, Body","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-2.mp3",2
-BAT-average,clip-03,"Self-Concept and Feeling OK","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-3.mp3",3
-BAT-average,clip-04,"Behavior, Commitment, and Action","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-4.mp3",4
-BAT-average,clip-05,"Vitality and Minimum Daily Behavior","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-5.mp3",5
-BAT-average,clip-06,"Technique and the Strategy Triangle","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-6.mp3",6
-BAT-average,clip-07,"Personal Presence and Tactics","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-7.mp3",7
-BAT-average,clip-08,"Managers, Trainers, and President’s Club","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-8.mp3",8
-BAT-average,clip-09,"BAT Rules for Long-Term Success","https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-9.mp3",9
+BAT-average,clip-01,Attitude Behavior and Technique,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-1.mp3,1
+BAT-average,clip-02,The U-Triangle Spirit Mind Body,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-2.mp3,2
+BAT-average,clip-03,Self-Concept and Feeling OK,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-3.mp3,3
+BAT-average,clip-04,Behavior Commitment and Action,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-4.mp3,4
+BAT-average,clip-05,Vitality and Minimum Daily Behavior,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-5.mp3,5
+BAT-average,clip-06,Technique and the Strategy Triangle,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-6.mp3,6
+BAT-average,clip-07,Personal Presence and Tactics,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-7.mp3,7
+BAT-average,clip-08,Managers Trainers and Presidents Club,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-8.mp3,8
+BAT-average,clip-09,BAT Rules for Long Term Success,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/BAT-average-9.mp3,9
 ta-sales-situation,clip-01,Introduction to Transactional Analysis,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-1.mp3,1
 ta-sales-situation,clip-02,Taping and Early Life Programming,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-2.mp3,2
 ta-sales-situation,clip-03,The Child Tape and the Little Person,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-3.mp3,3
@@ -123,20 +64,14 @@ ta-sales-situation,clip-04,Using the Nurturing Parent in Sales,https://hbarker10
 ta-sales-situation,clip-05,Transactional Types and Communication Breakdown,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-5.mp3,5
 ta-sales-situation,clip-06,Upfront Contracts and Ego States,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-6.mp3,6
 ta-sales-situation,clip-07,Ego State Balance in Selling,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/TA-sales-situation-7.mp3,7
-setting-goals-1,clip-101,What Is Motivation and Why It Matters,setting-goals-1-1.mp3,1
-setting-goals-1,clip-102,Incentive Fear and Attitude Motivation,setting-goals-1-2.mp3,2
-setting-goals-1,clip-103,Why Attitude Motivation Is Superior,setting-goals-1-3.mp3,3
-setting-goals-1,clip-104,Unlimited Motivation and Conditioning,setting-goals-1-4.mp3,4
-setting-goals-1,clip-105,Needs Wants and Priority of Values,setting-goals-1-5.mp3,5
-setting-goals-1,clip-106,The 30 Day Commitment Card Exercise,setting-goals-1-6.mp3,6
-setting-goals-1,clip-107,RIPITS Why Clear Vision Matters,setting-goals-1-7.mp3,7
-setting-goals-1,clip-108,Luck Preparation Meets Opportunity,setting-goals-1-8.mp3,8
-setting-goals-1,clip-109,Head Trash and Goal Guilt,setting-goals-1-9.mp3,9
-setting-goals-1,clip-110,The Eleven Step Plan of Action,setting-goals-1-10.mp3,10
-setting-goals-1,clip-111,Goal Books Visualization and Staying Motivated,setting-goals-1-11.mp3,11
-
-
-
-
-
-
+setting-goals-1,clip-101,What Is Motivation and Why It Matters,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-1.mp3,1
+setting-goals-1,clip-102,Incentive Fear and Attitude Motivation,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-2.mp3,2
+setting-goals-1,clip-103,Why Attitude Motivation Is Superior,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-3.mp3,3
+setting-goals-1,clip-104,Unlimited Motivation and Conditioning,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-4.mp3,4
+setting-goals-1,clip-105,Needs Wants and Priority of Values,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-5.mp3,5
+setting-goals-1,clip-106,The 30 Day Commitment Card Exercise,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-6.mp3,6
+setting-goals-1,clip-107,RIPITS Why Clear Vision Matters,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-7.mp3,7
+setting-goals-1,clip-108,Luck Preparation Meets Opportunity,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-8.mp3,8
+setting-goals-1,clip-109,Head Trash and Goal Guilt,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-9.mp3,9
+setting-goals-1,clip-110,The Eleven Step Plan of Action,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-10.mp3,10
+setting-goals-1,clip-111,Goal Books Visualization and Staying Motivated,https://hbarker1001-coder.github.io/sandler_site_scaffold/audio/setting-goals-1-11.mp3,11
