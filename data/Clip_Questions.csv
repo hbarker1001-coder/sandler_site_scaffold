@@ -631,6 +631,68 @@ decision,clip-79,14,"What should you avoid with a weak decision step?","CA: Movi
 IA: Asking questions.
 IA: Reviewing pain.
 IA: Discussing money."
+comfort-zone-1,clip-109,1,"What did David Sandler believe most sales problems are really caused by?","CA: Most sales problems are caused by negative self-talk and low self-esteem.
+IA: Most sales problems are caused by poor product knowledge.
+IA: Most sales problems come from weak closing techniques.
+IA: Most sales problems are caused by market conditions."
+comfort-zone-1,clip-109,2,"What does Sandler mean by self-concept in selling?","CA: Self-concept is how you see yourself internally and it determines how you perform in your roles.
+IA: Self-concept is how others see your job title.
+IA: Self-concept is based on past sales results only.
+IA: Self-concept is created by external recognition."
+
+comfort-zone-1,clip-110,3,"Why do many salespeople regress after traditional sales training?","CA: Because training improves role skills but does not change self-concept.
+IA: Because techniques stop working over time.
+IA: Because prospects resist new approaches.
+IA: Because motivation naturally fades."
+comfort-zone-1,clip-110,4,"What does Sandler say determines how well someone can perform in any role?","CA: You can only perform in a way that is consistent with how you see yourself conceptually.
+IA: Performance is determined by effort alone.
+IA: Performance depends on talent and intelligence.
+IA: Performance improves automatically with experience."
+
+comfort-zone-1,clip-111,5,"What is the difference between the I-side and the R-side?","CA: The I-side is who you are conceptually and the R-side is the roles you play.
+IA: The I-side is income and the R-side is results.
+IA: The I-side is intelligence and the R-side is reasoning.
+IA: The I-side is influence and the R-side is reputation."
+comfort-zone-1,clip-111,6,"What does the deserted island exercise demonstrate?","CA: Your self-worth exists independent of any roles you play.
+IA: Roles define personal value.
+IA: Success requires social comparison.
+IA: Identity is created by achievement."
+
+comfort-zone-1,clip-112,7,"What are the three psychological positions described by Sandler?","CA: Winner non-winner and at-leaster.
+IA: Leader follower observer.
+IA: Confident cautious insecure.
+IA: Aggressive passive analytical."
+comfort-zone-1,clip-112,8,"How does an at-leaster typically view himself?","CA: He feels okay only when things go fairly well and not okay when they don’t.
+IA: He always feels confident.
+IA: He never takes risks.
+IA: He consistently performs at a high level."
+
+comfort-zone-1,clip-113,9,"Why do people tend to operate within a narrow comfort zone?","CA: Because people act consistently with how they see themselves conceptually.
+IA: Because they lack ambition.
+IA: Because systems restrict growth.
+IA: Because success creates complacency."
+comfort-zone-1,clip-113,10,"What happens when someone performs above their self-concept level?","CA: They often sabotage or pull themselves back to their comfort zone.
+IA: They permanently upgrade their performance.
+IA: They become overconfident.
+IA: They eliminate fear entirely."
+
+comfort-zone-1,clip-114,11,"What does the castle and moat metaphor represent?","CA: Protecting your self-image from being damaged by external events.
+IA: Defending against competitors.
+IA: Avoiding accountability.
+IA: Building emotional walls with prospects."
+comfort-zone-1,clip-114,12,"What does Sandler mean by 'keep your belly button covered'?","CA: Protect your self-esteem and do not allow others to emotionally devalue you.
+IA: Avoid emotional conversations.
+IA: Stay guarded with prospects.
+IA: Maintain professional distance."
+
+comfort-zone-1,clip-115,13,"What separates winners from non-winners according to Sandler?","CA: Winners maintain a high self-concept regardless of role outcomes.
+IA: Winners have better education.
+IA: Winners experience less failure.
+IA: Winners avoid risk."
+comfort-zone-1,clip-115,14,"What is Sandler’s rule about growth and discomfort?","CA: There is no growth without pain.
+IA: Growth comes from motivation alone.
+IA: Comfort leads to mastery.
+IA: Growth requires avoiding failure."
 closing,clip-80,1,"What does Sandler consider the real close in the sales process?","CA: The upfront contract covering pain, budget, and decision.
 IA: The final presentation.
 IA: The signed proposal.
@@ -1015,3 +1077,4 @@ setting-goals-1,clip-111,26,"What does being part of your own plan mean?","CA: Y
 IA: You avoid responsibility.
 IA: You reduce workload.
 IA: You delay decisions."
+
