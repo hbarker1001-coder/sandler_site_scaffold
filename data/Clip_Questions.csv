@@ -1381,6 +1381,79 @@ reverse-selling,q20,20,What should you do if unsure about applying reverse selli
 IA: Stop using the system.
 IA: Copy scripts verbatim.
 IA: Avoid difficult prospects."
+module_id,clip_id,question_order,question_text,Answer
+guts,clip-01,1,Why does Sandler say most people need to be gutsy to succeed in sales?,"CA: Because most people are not natural superstars and must push through discomfort and setbacks to apply training consistently.
+IA: Because only aggressive personalities can sell.
+IA: Because scripts replace the need for confidence.
+IA: Because customers buy only from the loudest salesperson."
+guts,clip-01,2,What problem does Sandler highlight about motivation from courses or media?,"CA: It fades quickly in real-world conditions, so ongoing reinforcement and practice are needed to make training stick.
+IA: Motivation lasts permanently after one seminar.
+IA: Motivation is irrelevant if your product is good.
+IA: Motivation only fails because prospects are dishonest."
+guts,clip-02,3,In competitive bid situations, what is the value of asking for last look?,"CA: It can give you a chance to adjust pricing after bids are known, improving your odds of winning.
+IA: It guarantees you win every bid automatically.
+IA: It means you should avoid relationships and focus only on price.
+IA: It is only used after you have already lost."
+guts,clip-02,4,When should you ask for last look according to the lesson?,"CA: Upfront, before bids open, while building the relationship and helping shape specs.
+IA: Only after the bid opening is completed.
+IA: Only by emailing procurement anonymously.
+IA: After you have delivered the product."
+guts,clip-03,5,What is Sandler's core point about sales being a profession?,"CA: It requires preparation, resilience, and skill development, not superficial tips or seminar hype.
+IA: It is mostly about smiling and being friendly.
+IA: It is easy if you stay positive all the time.
+IA: It requires no training if you are extroverted."
+guts,clip-03,6,How does Sandler view constant positive mental attitude?,"CA: He treats it as unrealistic and says it is normal to feel down after setbacks, while still pushing forward.
+IA: He says you must always be happy or you will fail.
+IA: He says attitude does not matter at all.
+IA: He says only anger drives sales success."
+guts,clip-04,7,What does 'keep your antenna up' mean in this lesson?,"CA: Stay alert, listen closely, observe the prospect, and act purposefully in every interaction.
+IA: Talk more than the prospect to show expertise.
+IA: Avoid asking questions so you do not seem pushy.
+IA: Focus on being liked over being effective."
+guts,clip-04,8,What does Sandler say about social calls in selling?,"CA: There are no social calls; every call should be purposeful and aimed at helping the customer.
+IA: Social calls are the best way to avoid objections.
+IA: Social calls replace qualification.
+IA: Social calls are required before you can discuss pain."
+guts,clip-05,9,What key question does Sandler want Rich to ask the end user?,"CA: If we can meet the technical requirement, will you award us the business?
+IA: Can you send us your competitor's pricing?
+IA: Can we do a free pilot without any commitment?
+IA: Are you unhappy with your engineer personally?"
+guts,clip-05,10,Why is confirming commitment before heavy effort so important?,"CA: It prevents solving problems endlessly without a real path to winning the contract.
+IA: It is only important when selling low-ticket items.
+IA: It is rude and should be avoided.
+IA: It is unnecessary if you have a strong reputation."
+guts,clip-06,11,How much time does the speaker suggest you need to be gutsy each week?,"CA: About 10 minutes a week of focused courage, like asking tough questions.
+IA: Two hours per day minimum.
+IA: Only once a year at kickoff.
+IA: Only when you are losing deals."
+guts,clip-06,12,What is the link between continuous education and being gutsy?,"CA: Ongoing learning reinforces motivation and prevents slipping back into old habits.
+IA: Education replaces the need to practice.
+IA: Education is only for beginners.
+IA: Education should stop once you hit quota."
+guts,clip-07,13,What common objection is central in selling radio and TV advertising time?,"CA: The price is too high.
+IA: We never advertise.
+IA: We only buy on Fridays.
+IA: We do not use money."
+guts,clip-07,14,What strategy is recommended for handling price objections?,"CA: Raise the price issue early to set expectations and uncover intent before wasting time.
+IA: Avoid discussing price until the contract is signed.
+IA: Immediately discount to win trust.
+IA: Argue that price should not matter."
+guts,clip-08,15,What happens when you say your fear upfront with a prospect?,"CA: It removes the fear's power and helps you proceed more directly.
+IA: It makes the prospect respect you less automatically.
+IA: It guarantees the prospect will buy.
+IA: It should never be done in sales."
+guts,clip-08,16,What are the first three compartments of Sandler's qualification submarine?,"CA: Pain, money, and decision.
+IA: Rapport, demo, and close.
+IA: Features, benefits, and testimonials.
+IA: Price, proposal, and paperwork."
+guts,clip-09,17,What does the lesson mean by the prospect answering the exact question asked?,"CA: Do not accept deflection; politely insist on a direct answer to the question you asked.
+IA: Ask softer questions so the prospect can avoid answering.
+IA: Move on immediately whenever you feel pushback.
+IA: Let the prospect take control of the agenda."
+guts,clip-09,18,What does 'pull the trigger' mean in this context?,"CA: Be decisive and courageous at the moment of truth instead of hesitating or wimping out.
+IA: End the call early to avoid rejection.
+IA: Wait until the prospect calls you back.
+IA: Only ask for a decision by email."
 
 
 
