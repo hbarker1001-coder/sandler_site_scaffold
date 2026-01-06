@@ -338,6 +338,46 @@ decision,q7,7,"According to Sandler when is a decision step strong?","CA: When a
 IA: When prospects feel comfortable.
 IA: When demos are delivered.
 IA: When objections stop."
+comfort-zone-1,q1,1,"According to David Sandler, what primarily limits a salesperson’s performance?","CA: The salesperson’s self-concept and internal mindset.
+IA: Lack of advanced selling techniques.
+IA: Market conditions and competition.
+IA: Insufficient product knowledge."
+comfort-zone-1,q2,2,"What does Sandler mean when he says everyone is born a '10'?","CA: Everyone has inherent self-worth that does not change based on role performance.
+IA: Everyone starts with equal sales skills.
+IA: Everyone will succeed regardless of effort.
+IA: Everyone performs at the same level."
+comfort-zone-1,q3,3,"Why does traditional sales training often fail to create lasting improvement?","CA: It focuses on role skills without changing self-concept.
+IA: It introduces too many techniques.
+IA: It moves too slowly.
+IA: It relies too heavily on motivation."
+comfort-zone-1,q4,4,"What is the key difference between the I-side and the R-side?","CA: The I-side is who you are conceptually and the R-side is how you perform roles.
+IA: The I-side is income and the R-side is results.
+IA: The I-side is intelligence and the R-side is reasoning.
+IA: The I-side is influence and the R-side is reputation."
+comfort-zone-1,q5,5,"What typically happens when someone performs above their comfort zone?","CA: They unconsciously pull themselves back to their self-concept level.
+IA: They permanently raise their performance.
+IA: They eliminate fear.
+IA: They become reckless."
+comfort-zone-1,q6,6,"Which description best defines a winner according to Sandler?","CA: Someone who maintains a high self-image regardless of role outcomes.
+IA: Someone who never experiences failure.
+IA: Someone who outperforms others consistently.
+IA: Someone with superior skills."
+comfort-zone-1,q7,7,"What does the castle and moat metaphor represent?","CA: Protecting your self-image from being harmed by external events.
+IA: Avoiding accountability.
+IA: Isolating yourself emotionally.
+IA: Defending against competitors."
+comfort-zone-1,q8,8,"What does the phrase 'keep your belly button covered' mean?","CA: Protect your self-esteem and emotional boundaries.
+IA: Avoid emotional conversations.
+IA: Stay guarded with prospects.
+IA: Maintain physical distance."
+comfort-zone-1,q9,9,"What distinguishes role failure from personal failure?","CA: Role failure reflects performance, not self-worth.
+IA: Role failure means poor character.
+IA: Role failure always damages confidence.
+IA: Role failure should be avoided at all costs."
+comfort-zone-1,q10,10,"What is Sandler’s fundamental rule about growth?","CA: There is no growth without pain.
+IA: Growth comes from motivation alone.
+IA: Growth happens automatically with experience.
+IA: Growth requires comfort and security."
 closing,q1,73,"What does Sandler consider the actual close?","CA: The upfront contract covering pain, budget, and decision.
 IA: The final presentation.
 IA: The signed proposal.
@@ -514,3 +554,4 @@ setting-goals-1,q11,11,What is the purpose of breaking goals into checkpoints?,"
 IA: To slow progress.
 IA: To avoid responsibility.
 IA: To reduce ambition."
+
