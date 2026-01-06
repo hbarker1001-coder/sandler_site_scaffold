@@ -663,7 +663,6 @@ reverse-selling,qm10,10,What mindset is required to master reverse selling?,"CA:
 IA: Aggression.
 IA: Speed.
 IA: Script dependence."
-module_id,question_order,question_text,Answer
 guts,1,Why does Sandler say many salespeople fail after training even when they learned good techniques?,"CA: Because motivation fades and they do not apply the tools under real-world pressure without reinforcement and practice.
 IA: Because prospects dislike any training-based approach.
 IA: Because only product knowledge matters.
@@ -672,7 +671,7 @@ guts,2,What is the purpose of being a 'worst case scenario player' in sales?,"CA
 IA: To assume every prospect is lying.
 IA: To avoid taking any risks.
 IA: To focus only on low-level buyers."
-guts,3,In bid environments, why should you ask for last look before bid day?,"CA: To secure an advantage and confirm how decisions will be made before you invest heavy effort.
+guts,3,"In bid environments, why should you ask for last look before bid day?","CA: To secure an advantage and confirm how decisions will be made before you invest heavy effort.
 IA: Because last look is a legal requirement.
 IA: Because bids are always won by the first vendor to submit.
 IA: Because relationships do not matter in bids."
@@ -704,6 +703,3 @@ guts,10,What is the core takeaway of the module in one line?,"CA: No guts, no ga
 IA: No scripts, no sales.
 IA: No discounts, no pipeline.
 IA: No product knowledge, no credibility."
-
-
-
